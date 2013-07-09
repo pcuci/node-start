@@ -1,0 +1,1000 @@
+3268270..3269457	+	395	388479119	yhaC	Y75_p3045	-	-	hypothetical protein
+3270480..3271706	-	408	388479120	garK	Y75_p3046	-	-	glycerate kinase I
+3271722..3272612	-	296	388479121	garR	Y75_p3047	-	-	tartronate semialdehyde reductase
+3272642..3273412	-	256	388479122	garL	Y75_p3048	-	-	alpha-dehydro-beta-deoxy-D-glucarate aldolase
+3273428..3274762	-	444	388479123	garP	Y75_p3049	-	-	(D)-galactarate transporter
+3275137..3276708	+	523	388479124	garD	Y75_p3050	-	-	(D)-galactarate dehydrogenase
+3276857..3277192	+	111	388479125	sohA	Y75_p3051	-	-	regulator
+3277192..3277656	+	154	388479126	yhaV	Y75_p3052	-	-	hypothetical protein
+3277711..3278520	-	269	388479127	agaR	Y75_p3053	-	-	DNA-binding transcriptional dual regulator
+3278769..3280049	+	426	388479128	kbaZ	Y75_p3054	-	-	tagatose 6-phosphate aldolase 1, kbaZ subunit
+3280072..3280545	+	157	388479129	agaV	Y75_p3055	-	-	PTS system N-acetylgalactosamine-specific transporter subunit IIB
+3280977..3281480	+	167	388479130	agaA	Y75_p3057	-	-	truncated N-acetylgalactosamine-6-phosphate deacetylase
+3281831..3282985	+	384	388479131	agaS	Y75_p3058	-	-	tagatose-6-phosphate ketose/aldose isomerase
+3282998..3283858	+	286	388479132	kbaY	Y75_p3059	-	-	tagatose 6-phosphate aldolase 1, kbaY subunit
+3284025..3284501	+	158	388479133	agaB	Y75_p3060	-	-	PTS system N-acetylgalactosamine-specific transporter subunit IIB
+3284540..3285343	+	267	388479134	agaC	Y75_p3061	-	-	PTS system N-acetylgalactosamine-specific transporter subunit IIC
+3285333..3286124	+	263	388479135	agaD	Y75_p3062	-	-	PTS system N-acetylgalactosamine-specific transporter subunit IID
+3286125..3286880	+	251	388479136	agaI	Y75_p3063	-	-	galactosamine-6-phosphate isomerase
+3287281..3287865	+	194	388479137	yraH	Y75_p3064	-	-	fimbrial-like adhesin protein
+3287945..3288640	+	231	388479138	yraI	Y75_p3065	-	-	periplasmic pilin chaperone
+3288669..3291185	+	838	388479139	yraJ	Y75_p3066	-	-	outer membrane protein
+3291196..3292287	+	363	388479140	yraK	Y75_p3067	-	-	fimbrial-like adhesin protein
+3292330..3293190	-	286	388479141	yraL	Y75_p3068	-	-	methyltransferase
+3293255..3295291	+	678	388479142	yraM	Y75_p3069	-	-	hypothetical protein
+3295249..3295644	+	131	388479143	yraN	Y75_p3070	-	-	hypothetical protein
+3295664..3296254	+	196	388479144	yraO	Y75_p3071	-	-	DnaA initiator-associating factor for replication initiation
+3296264..3296839	+	191	388479145	yraP	Y75_p3072	-	-	hypothetical protein
+3296953..3297993	-	346	388479146	yraQ	Y75_p3073	-	-	permease
+3298066..3298701	-	211	388479147	yraR	Y75_p3074	-	-	nucleoside-diphosphate-sugar epimerase
+3298829..3299347	+	172	388479148	yhbO	Y75_p3075	-	-	intracellular protease
+3299327..3299770	-	147	388479149	yhbP	Y75_p3076	-	-	hypothetical protein
+3299821..3300123	+	100	388479150	yhbQ	Y75_p3077	-	-	endonuclease
+3300110..3300613	-	167	388479151	yhbS	Y75_p3078	-	-	acyltransferase
+3300607..3301131	-	174	388479152	yhbT	Y75_p3079	-	-	lipid carrier protein
+3301340..3302335	+	331	388479153	yhbU	Y75_p3080	-	-	peptidase, collagenase-like
+3302344..3303222	+	292	388479154	yhbV	Y75_p3081	-	-	protease
+3303303..3304310	+	335	388479155	yhbW	Y75_p3082	-	-	hypothetical protein
+3304428..3305672	-	414	388479156	mtr	Y75_p3083	-	-	tryptophan transporter of high affinity
+3305826..3307715	-	629	388479157	deaD	Y75_p3084	-	-	ATP-dependent RNA helicase
+3307895..3308779	-	294	388479158	nlpI	Y75_p3085	-	-	hypothetical protein
+3308888..3311092	-	734	388479159	pnp	Y75_p3086	-	-	polynucleotide phosphorylase/polyadenylase
+3311270..3311539	-	89	388479160	rpsO	Y75_p3087	-	-	30S ribosomal protein S15
+3311688..3312632	-	314	388479161	truB	Y75_p3088	-	-	tRNA pseudouridine synthase
+3312632..3313033	-	133	388479162	rbfA	Y75_p3089	-	-	30s ribosome binding factor
+3313197..3315869	-	890	388479163	infB	Y75_p3090	-	-	fused protein chain initiation factor 2, IF2
+3315894..3317381	-	495	388479164	nusA	Y75_p3091	-	-	transcription termination/antitermination L factor
+3317409..3317861	-	150	388479165	yhbC	Y75_p3092	-	-	hypothetical protein
+3318492..3319835	+	447	388479166	argG	Y75_p3093	-	-	argininosuccinate synthetase
+3319843..3321468	-	541	388479167	yhbX	Y75_p3094	-	-	hydrolase, inner membrane
+3322028..3322360	-	110	388479168	secG	Y75_p3095	-	-	preprotein translocase membrane subunit
+3322588..3323925	-	445	388479169	glmM	Y75_p3096	-	-	phosphoglucosamine mutase
+3323918..3324766	-	282	388479170	folP	Y75_p3097	-	-	7,8-dihydropteroate synthase
+3324856..3326790	-	644	388479171	ftsH	Y75_p3098	-	-	protease, ATP-dependent zinc-metallo
+3326890..3327519	-	209	388479172	rrmJ	Y75_p3099	-	-	23S rRNA methyltransferase
+3327645..3327938	+	97	388479173	yhbY	Y75_p3100	-	-	RNA-binding protein
+3328094..3328570	-	158	388479174	greA	Y75_p3101	-	-	transcription elongation factor
+3328818..3330251	+	477	388479175	dacB	Y75_p3102	-	-	D-alanyl-D-alanine carboxypeptidase
+3330437..3331609	-	390	388479176	obgE	Y75_p3103	-	-	GTPase involved in cell partioning and DNA repair
+3331625..3332590	-	321	388479177	yhbE	Y75_p3104	-	-	inner membrane protein
+3332717..3332974	-	85	388479178	rpmA	Y75_p3105	-	-	50S ribosomal protein L27
+3332995..3333306	-	103	388479179	rplU	Y75_p3106	-	-	50S ribosomal protein L21
+3333565..3334536	+	323	388479180	ispB	Y75_p3107	-	-	octaprenyl diphosphate synthase
+3334764..3335042	+	92	388479181	sfsB	Y75_p3108	-	-	DNA-binding transcriptional regulator
+3335090..3336349	-	419	388479182	murA	Y75_p3109	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3336404..3336658	-	84	388479183	yrbA	Y75_p3110	-	-	DNA-binding transcriptional regulator
+3336818..3337111	-	97	388479184	yrbB	Y75_p3111	-	-	hypothetical protein
+3337111..3337746	-	211	388479185	yrbC	Y75_p3112	-	-	ABC-type organic solvent transporter
+3337765..3338316	-	183	388479186	yrbD	Y75_p3113	-	-	ABC-type organic solvent transporter
+3338321..3339103	-	260	388479187	yrbE	Y75_p3114	-	-	toluene transporter subunit
+3339111..3339920	-	269	388479188	yrbF	Y75_p3115	-	-	toluene transporter subunit
+3340130..3341107	+	325	388479189	yrbG	Y75_p3116	-	-	calcium/sodium:proton antiporter
+3341121..3342107	+	328	388479190	kdsD	Y75_p3117	-	-	D-arabinose 5-phosphate isomerase
+3342128..3342694	+	188	388479191	kdsC	Y75_p3118	-	-	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+3342691..3343266	+	191	388479192	yrbK	Y75_p3119	-	-	hypothetical protein
+3343235..3343792	+	185	388479193	yhbN	Y75_p3120	-	-	transporter subunit
+3343799..3344524	+	241	388479194	yhbG	Y75_p3121	-	-	transporter subunit
+3344572..3346005	+	477	388479195	rpoN	Y75_p3122	-	-	RNA polymerase, sigma 54 (sigma N) factor
+3346028..3346315	+	95	388479196	yhbH	Y75_p3123	-	-	ribosome-associated, sigma 54 modulation protein
+3346433..3346924	+	163	388479197	ptsN	Y75_p3124	-	-	PTS system sugar-specific transporter subunit IIA
+3346970..3347824	+	284	388479198	yhbJ	Y75_p3125	-	-	hypothetical protein
+3347821..3348093	+	90	388479199	npr	Y75_p3126	-	-	phosphohistidinoprotein-hexose phosphotransferase component of N-regulated PTS system (Npr)
+3348307..3348939	+	210	388479200	yrbL	Y75_p3127	-	-	hypothetical protein
+3348936..3349664	-	242	388479201	mtgA	Y75_p3128	-	-	biosynthetic peptidoglycan transglycosylase
+3349661..3350314	-	217	388479202	elbB	Y75_p3129	-	-	isoprenoid biosynthesis protein with amidotransferase-like domain
+3350544..3352880	-	778	388479203	arcB	Y75_p3130	-	-	hybrid sensory histidine kinase in two-component regulatory system with ArcA
+3352976..3353905	-	309	388479204	yhcC	Y75_p3131	-	-	Fe-S oxidoreductase
+3354487..3359040	+	1517	388479205	gltB	Y75_p3132	-	-	glutamate synthase, large subunit
+3359053..3360471	+	472	388479206	gltD	Y75_p3133	-	-	glutamate synthase, 4Fe-4S protein, small subunit
+3361031..3361795	+	254	388479207	gltF	Y75_p3134	-	-	hypothetical protein
+3361967..3362641	+	224	388479208	yhcA	Y75_p3135	-	-	periplasmic chaperone protein
+3362662..3365043	+	793	388479209	yhcD	Y75_p3136	-	-	outer membrane protein
+3365557..3366573	-	338	388479210	insH	Y75_p3138	-	-	IS5 transposase and trans-activator
+3366781..3367497	+	238	388479211	yhcF	Y75_p3139	-	-	transcriptional regulator
+3367682..3368809	+	375	388479212	yhcG	Y75_p3140	-	-	hypothetical protein
+3368869..3369333	-	154	388479213	yhcH	Y75_p3141	-	-	hypothetical protein
+3369330..3370205	-	291	388479214	nanK	Y75_p3142	-	-	N-acetylmannosamine kinase
+3370202..3370891	-	229	388479215	nanE	Y75_p3143	-	-	N-acetylmannosamine-6-P epimerase
+3370939..3372429	-	496	388479216	nanT	Y75_p3144	-	-	sialic acid transporter
+3372538..3373431	-	297	388479217	nanA	Y75_p3145	-	-	N-acetylneuraminate lyase
+3373553..3374344	-	263	388479218	nanR	Y75_p3146	-	-	DNA-binding transcriptional dual regulator
+3374724..3376091	+	455	388479219	dcuD	Y75_p3147	-	-	transporter
+3376134..3376631	-	165	388479220	sspB	Y75_p3148	-	-	ClpXP protease-specificity-enhancing factor
+3376637..3377275	-	212	388479221	sspA	Y75_p3149	-	-	stringent starvation protein A
+3377670..3378062	-	130	388479222	rpsI	Y75_p3150	-	-	30S ribosomal protein S9
+3378078..3378506	-	142	388479223	rplM	Y75_p3151	-	-	50S ribosomal protein L13
+3378725..3379852	-	375	388479224	yhcM	Y75_p3152	-	-	hypothetical protein
+3380046..3380444	+	132	388479225	yhcB	Y75_p3153	-	-	hypothetical protein
+3380598..3381965	+	455	388479226	degQ	Y75_p3154	-	-	serine endoprotease, periplasmic
+3382055..3383122	+	355	388479227	degS	Y75_p3155	-	-	serine endoprotease, periplasmic
+3383185..3384123	-	312	388479228	mdh	Y75_p3156	-	-	malate dehydrogenase
+3384558..3385028	+	156	388479229	argR	Y75_p3157	-	-	DNA-binding transcriptional dual regulator
+3385393..3385656	+	87	388479230	yhcN	Y75_p3158	-	-	hypothetical protein
+3385712..3385984	-	90	388479231	yhcO	Y75_p3159	-	-	barnase inhibitor
+3386076..3388043	-	655	388479232	aaeB	Y75_p3160	-	-	p-hydroxybenzoic acid efflux system component
+3388049..3388981	-	310	388479233	aaeA	Y75_p3161	-	-	p-hydroxybenzoic acid efflux system component
+3388989..3389192	-	67	388479234	aaeX	Y75_p3162	-	-	membrane protein of efflux system
+3389375..3390304	+	309	388479235	aaeR	Y75_p3163	-	-	DNA-binding transcriptional regulator
+3390438..3391883	-	481	388479236	tldD	Y75_p3164	-	-	peptidase
+3392313..3396113	-	1266	388479237	yhdP	Y75_p3165	-	-	membrane protein transporter
+3396181..3397650	-	489	388479238	rng	Y75_p3166	-	-	ribonuclease G
+3397640..3398233	-	197	388479239	yhdE	Y75_p3167	-	-	hypothetical protein
+3398242..3398730	-	162	388479240	mreD	Y75_p3168	-	-	cell wall structural complex MreBCD transmembrane component MreD
+3398730..3399833	-	367	388479241	mreC	Y75_p3169	-	-	cell wall structural complex MreBCD transmembrane component MreC
+3399899..3400942	-	347	388479242	mreB	Y75_p3170	-	-	cell wall structural complex MreBCD, actin-like component MreB
+3401247..3403187	-	646	388479243	yhdA	Y75_p3171	-	-	inner membrane protein
+3403339..3404313	+	324	388479244	yhdH	Y75_p3172	-	-	oxidoreductase
+3405291..3405761	+	156	388479245	accB	Y75_p3173	-	-	acetyl CoA carboxylase, BCCP subunit
+3405772..3407121	+	449	388479246	accC	Y75_p3174	-	-	acetyl-CoA carboxylase, biotin carboxylase subunit
+3407230..3407472	+	80	388479247	yhdT	Y75_p3175	-	-	inner membrane protein
+3407462..3408913	+	483	388479248	panF	Y75_p3176	-	-	pantothenate:sodium symporter
+3408925..3409806	+	293	388479249	prmA	Y75_p3177	-	-	methylase for 50S ribosomal protein L11
+3410135..3411100	+	321	388479250	dusB	Y75_p3178	-	-	tRNA-dihydrouridine synthase B
+3411126..3411422	+	98	388479251	fis	Y75_p3179	-	-	global DNA-binding transcriptional dual regulator
+3411508..3412392	+	294	388479252	yhdJ	Y75_p3180	-	-	methyltransferase
+3412476..3412655	+	59	388479253	yhdU	Y75_p3181	-	-	membrane protein
+3412658..3413320	-	220	388479254	envR	Y75_p3182	-	-	DNA-binding transcriptional regulator
+3413719..3414876	+	385	388479255	acrE	Y75_p3183	-	-	cytoplasmic membrane lipoprotein
+3414888..3417992	+	1034	388479256	acrF	Y75_p3184	-	-	multidrug efflux system protein
+3418245..3418466	+	73	388479257	yhdV	Y75_p3185	-	-	outer membrane protein
+3419004..3419921	+	305	388479258	yhdW	Y75_p3186	-	-	amino-acid transporter subunit
+3419989..3421170	+	393	388479259	yhdX	Y75_p3187	-	-	amino-acid transporter subunit
+3421180..3422283	+	367	388479260	yhdY	Y75_p3188	-	-	amino-acid transporter subunit
+3422291..3423049	+	252	388479261	yhdZ	Y75_p3189	-	-	amino-acid transporter subunit
+3429149..3430738	+	529	388479262	purH	Y75_p3190	-	-	fused IMP cyclohydrolase and phosphoribosylaminoimidazolecarboxamide formyltransferase
+3430750..3432039	+	429	388479263	purD	Y75_p3191	-	-	phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase
+3432036..3433361	-	441	388479264	zraR	Y75_p3192	-	-	fused DNA-binding response regulator in two-component regulatory system with ZraS
+3433358..3434755	-	465	388479265	zraS	Y75_p3193	-	-	sensory histidine kinase in two-component regulatory system with ZraR
+3434993..3435418	+	141	388479266	zraP	Y75_p3194	-	-	Zn-binding periplasmic protein
+3435420..3436115	-	231	388479267	yjaH	Y75_p3195	-	-	hypothetical protein
+3436128..3436400	-	90	388479268	hupA	Y75_p3196	-	-	HU, DNA-binding transcriptional regulator subunit alpha
+3436587..3437177	-	196	388479269	yjaG	Y75_p3197	-	-	hypothetical protein
+3437220..3437891	-	223	388479270	nfi	Y75_p3198	-	-	endonuclease V
+3437901..3438965	-	354	388479271	hemE	Y75_p3199	-	-	uroporphyrinogen decarboxylase
+3439005..3439778	-	257	388479272	nudC	Y75_p3200	-	-	NADH pyrophosphatase
+3439873..3440349	+	158	388479273	rsd	Y75_p3201	-	-	stationary phase protein, binds sigma 70 RNA polymerase subunit
+3440582..3442477	+	631	388479274	thiC	Y75_p3202	-	-	thiamin (pyrimidine moiety) biosynthesis protein
+3442477..3443112	+	211	388479275	thiE	Y75_p3203	-	-	thiamin phosphate synthase
+3443105..3443860	+	251	388479276	thiF	Y75_p3204	-	-	thiamin (thiazole moiety) biosynthesis protein
+3443844..3444044	+	66	388479277	thiS	Y75_p3205	-	-	sulfur carrier protein
+3444046..3444816	+	256	388479278	thiG	Y75_p3206	-	-	thiamin biosynthesis ThiGH complex subunit
+3444813..3445946	+	377	388479279	thiH	Y75_p3207	-	-	thiamin biosynthesis ThiGH complex subunit
+3446356..3446895	-	179	388479280	htrC	Y75_p3208	-	-	heat shock protein
+3447108..3451331	-	1407	388479281	rpoC	Y75_p3209	-	-	RNA polymerase, beta prime subunit
+3451408..3455436	-	1342	388479282	rpoB	Y75_p3210	-	-	RNA polymerase subunit beta
+3455756..3456121	-	121	388479283	rplL	Y75_p3211	-	-	50S ribosomal protein L7/L12
+3456188..3456685	-	165	388479284	rplJ	Y75_p3212	-	-	50S ribosomal protein L10
+3457098..3457802	-	234	388479285	rplA	Y75_p3213	-	-	50S ribosomal protein L1
+3457806..3458234	-	142	388479286	rplK	Y75_p3214	-	-	50S ribosomal protein L11
+3458393..3458938	-	181	388479287	nusG	Y75_p3215	-	-	transcription termination factor
+3458940..3459323	-	127	388479288	secE	Y75_p3216	-	-	preprotein translocase membrane subunit
+3459553..3460737	-	394	388479289	tufB	Y75_p3217	-	-	protein chain elongation factor EF-Tu
+3461655..3462605	+	316	388479290	coaA	Y75_p3218	-	-	pantothenate kinase
+3462634..3463599	-	321	388479291	birA	Y75_p3219	-	-	bifunctional biotin-[acetylCoA carboxylase] holoenzyme synthetase/DNA-binding transcriptional repressor, bio-5'-AMP-binding
+3463596..3464624	-	342	388479292	murB	Y75_p3220	-	-	UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding
+3470396..3471253	-	285	388479293	murI	Y75_p3221	-	-	glutamate racemase
+3471198..3473042	-	614	388479294	btuB	Y75_p3222	-	-	vitamin B12/cobalamin outer membrane transporter
+3473411..3474511	+	366	388479295	trmA	Y75_p3223	-	-	tRNA (uracil-5-)-methyltransferase
+3474551..3474910	-	119	388479296	yijD	Y75_p3224	-	-	inner membrane protein
+3474910..3475614	-	234	388479297	fabR	Y75_p3225	-	-	DNA-binding transcriptional repressor
+3475891..3477291	+	466	388479298	sthA	Y75_p3226	-	-	pyridine nucleotide transhydrogenase, soluble
+3477274..3478191	-	305	388479299	oxyR	Y75_p3227	-	-	DNA-binding transcriptional dual regulator
+3478458..3479831	-	457	388479300	argH	Y75_p3228	-	-	argininosuccinate lyase
+3479892..3480665	-	257	388479301	argB	Y75_p3229	-	-	acetylglutamate kinase
+3480676..3481680	-	334	388479302	argC	Y75_p3230	-	-	N-acetyl-gamma-glutamylphosphate reductase
+3481834..3482985	+	383	388479303	argE	Y75_p3231	-	-	acetylornithine deacetylase
+3483583..3486234	+	883	388479304	ppc	Y75_p3232	-	-	phosphoenolpyruvate carboxylase
+3486416..3488149	+	577	388479305	yijP	Y75_p3233	-	-	inner membrane protein
+3488364..3489215	+	283	388479306	yijO	Y75_p3234	-	-	DNA-binding transcriptional regulator
+3489202..3489543	-	113	388479307	frwD	Y75_p3235	-	-	PTS system transporter subunit IIB
+3489545..3490423	-	292	388479308	pflC	Y75_p3236	-	-	pyruvate formate lyase II activase
+3490389..3492686	-	765	388479309	pflD	Y75_p3237	-	-	formate acetyltransferase 2
+3492737..3493057	-	106	388479310	frwB	Y75_p3238	-	-	PTS system transporter subunit IIB
+3493072..3494151	-	359	388479311	frwC	Y75_p3239	-	-	PTS system transporter subunit IIC
+3494460..3496961	+	833	388479312	ptsA	Y75_p3240	-	-	fused PTS enzymes Hpr component, enzyme I component, and enzyme IIA component
+3496973..3497635	+	220	388479313	fsaB	Y75_p3241	-	-	fructose-6-phosphate aldolase 2
+3497646..3498749	+	367	388479314	gldA	Y75_p3242	-	-	glycerol dehydrogenase, NAD
+3499024..3499641	+	205	388479315	yijF	Y75_p3243	-	-	hypothetical protein
+3499668..3500573	-	301	388479316	yijE	Y75_p3244	-	-	permease
+3500666..3502846	-	726	388479317	katG	Y75_p3245	-	-	catalase/hydroperoxidase HPI(I)
+3503175..3504065	-	296	388479318	metF	Y75_p3246	-	-	5,10-methylenetetrahydrofolate reductase
+3504414..3506846	-	810	388479319	metL	Y75_p3247	-	-	fused aspartokinase II and homoserine dehydrogenase II
+3506849..3508009	-	386	388479320	metB	Y75_p3248	-	-	cystathionine gamma-synthase, PLP-dependent
+3508286..3508603	+	105	388479321	metJ	Y75_p3249	-	-	DNA-binding transcriptional repressor
+3508787..3509395	+	202	388479322	yiiX	Y75_p3250	-	-	peptidoglycan peptidase
+3509456..3509668	-	70	388479323	rpmE	Y75_p3251	-	-	50S ribosomal protein L31
+3509871..3512069	+	732	388479324	priA	Y75_p3252	-	-	primosome factor n'
+3512225..3513250	+	341	388479325	cytR	Y75_p3253	-	-	DNA-binding transcriptional dual regulator
+3513342..3514301	+	319	388479326	ftsN	Y75_p3254	-	-	cell division protein
+3514394..3514924	+	176	388479327	hslV	Y75_p3255	-	-	peptidase component of the HslUV protease
+3514934..3516265	+	443	388479328	hslU	Y75_p3256	-	-	molecular chaperone and ATPase component of HslUV protease
+3516332..3517258	+	308	388479329	menA	Y75_p3257	-	-	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+3517351..3517836	+	161	388479330	rraA	Y75_p3258	-	-	ribonuclease E (RNase E) inhibitor protein
+3517921..3518166	-	81	388479331	yiiU	Y75_p3259	-	-	hypothetical protein
+3518591..3519436	+	281	388479332	glpF	Y75_p3260	-	-	glycerol facilitator
+3519459..3520967	+	502	388479333	glpK	Y75_p3261	-	-	glycerol kinase
+3521102..3522112	+	336	388479334	glpX	Y75_p3262	-	-	fructose 1,6-bisphosphatase II
+3522209..3522955	+	248	388479335	fpr	Y75_p3263	-	-	ferredoxin-NADP reductase
+3522960..3523388	-	142	388479336	yiiT	Y75_p3264	-	-	stress-induced protein
+3523415..3523714	-	99	388479337	yiiS	Y75_p3265	-	-	hypothetical protein
+3523926..3524366	-	146	388479338	yiiR	Y75_p3266	-	-	inner membrane protein
+3524467..3525066	+	199	388479339	yiiQ	Y75_p3267	-	-	hypothetical protein
+3525174..3525941	+	255	388479340	tpiA	Y75_p3268	-	-	triosephosphate isomerase
+3525996..3526751	-	251	388479341	cdh	Y75_p3269	-	-	CDP-diacylglycerol phosphotidylhydrolase
+3526858..3527847	-	329	388479342	sbp	Y75_p3270	-	-	sulfate transporter subunit
+3528167..3529129	-	320	388479343	pfkA	Y75_p3271	-	-	6-phosphofructokinase I
+3529310..3530212	-	300	388479344	fieF	Y75_p3272	-	-	zinc transporter
+3530361..3530861	-	166	388479345	cpxP	Y75_p3273	-	-	hypothetical protein
+3531011..3531709	+	232	388479346	cpxR	Y75_p3274	-	-	DNA-binding response regulator in two-component regulatory system with CpxA
+3531706..3533079	+	457	388479347	cpxA	Y75_p3275	-	-	sensory histidine kinase in two-component regulatory system with CpxR
+3533185..3533859	-	224	388479348	yiiM	Y75_p3276	-	-	hypothetical protein
+3534008..3534991	-	327	388479349	kdgT	Y75_p3277	-	-	2-keto-3-deoxy-D-gluconate transporter
+3535251..3535871	-	206	388479350	sodA	Y75_p3278	-	-	superoxide dismutase, Mn
+3536156..3537190	+	344	388479351	rhaT	Y75_p3279	-	-	L-rhamnose:proton symporter
+3537187..3538125	-	312	388479352	rhaR	Y75_p3280	-	-	DNA-binding transcriptional activator
+3538109..3538945	-	278	388479353	rhaS	Y75_p3281	-	-	DNA-binding transcriptional activator
+3539233..3540702	+	489	388479354	rhaB	Y75_p3282	-	-	rhamnulokinase
+3540699..3541958	+	419	388479355	rhaA	Y75_p3283	-	-	L-rhamnose isomerase
+3542409..3543233	+	274	388479356	rhaD	Y75_p3284	-	-	rhamnulose-1-phosphate aldolase
+3543243..3543557	+	104	388479357	yiiL	Y75_p3285	-	-	L-rhamnose mutarotase
+3543858..3544304	+	148	388479358	frvA	Y75_p3286	-	-	PTS system transporter subunit IIA
+3544315..3545766	+	483	388479359	frvB	Y75_p3287	-	-	fused PTS enzyme IIBC components
+3545756..3546826	+	356	388479360	frvX	Y75_p3288	-	-	endo-1,4-beta-glucanase
+3546826..3548574	+	582	388479361	frvR	Y75_p3289	-	-	regulator
+3548624..3549679	-	351	388479362	yiiG	Y75_p3290	-	-	hypothetical protein
+3549832..3550665	-	277	388479363	fdhD	Y75_p3291	-	-	formate dehydrogenase formation protein
+3550859..3553909	+	1016	388479364	fdoG	Y75_p3292	-	-	formate dehydrogenase-O, large subunit
+3553922..3554824	+	300	388479365	fdoH	Y75_p3293	-	-	formate dehydrogenase-O, Fe-S subunit
+3554821..3555456	+	211	388479366	fdoI	Y75_p3294	-	-	formate dehydrogenase-O, cytochrome b556 subunit
+3555453..3556382	+	309	388479367	fdhE	Y75_p3295	-	-	formate dehydrogenase formation protein
+3556712..3556930	-	72	388479368	yiiF	Y75_p3296	-	-	hypothetical protein
+3557172..3557390	-	72	388479369	yiiE	Y75_p3297	-	-	transcriptional regulator
+3558243..3559232	-	329	388479370	yiiD	Y75_p3298	-	-	acetyltransferase
+3559229..3559666	-	145	388479371	dtd	Y75_p3299	-	-	D-Tyr-tRNA(Tyr) deacylase
+3559663..3560535	-	290	388479372	rbn	Y75_p3300	-	-	tRNA processing exoribonuclease BN
+3560529..3561128	-	199	388479373	yihX	Y75_p3301	-	-	hydrolase
+3561227..3562012	-	261	388479374	yihW	Y75_p3302	-	-	DNA-binding transcriptional regulator
+3562046..3562942	-	298	388479375	yihV	Y75_p3303	-	-	sugar kinase
+3563110..3564006	+	298	388479376	yihU	Y75_p3304	-	-	oxidoreductase with NAD(P)-binding Rossmann-fold domain
+3564030..3564908	+	292	388479377	yihT	Y75_p3305	-	-	aldolase
+3564925..3566166	+	413	388479378	yihS	Y75_p3306	-	-	glucosamine isomerase
+3566280..3567206	+	308	388479379	yihR	Y75_p3307	-	-	aldose-1-epimerase
+3567405..3569441	+	678	388479380	yihQ	Y75_p3308	-	-	alpha-glucosidase
+3569466..3570872	+	468	388479381	yihP	Y75_p3309	-	-	transporter
+3570915..3572318	+	467	388479382	yihO	Y75_p3310	-	-	transporter
+3572386..3573078	+	230	388479383	ompL	Y75_p3311	-	-	outer membrane porin L
+3573169..3574434	-	421	388479384	yihN	Y75_p3312	-	-	transporter
+3574536..3575516	-	326	388479385	yihM	Y75_p3313	-	-	sugar phosphate isomerase
+3575524..3576234	-	236	388479386	yihL	Y75_p3314	-	-	DNA-binding transcriptional regulator
+3576451..3578274	-	607	388479387	bipA	Y75_p3315	-	-	GTP-binding protein
+3578647..3580056	+	469	388479388	glnA	Y75_p3316	-	-	glutamine synthetase
+3580342..3581391	+	349	388479389	glnL	Y75_p3317	-	-	sensory kinase in two-component regulatory system with GlnG
+3581403..3582812	+	469	388479390	glnG	Y75_p3318	-	-	fused DNA-binding response regulator in two-component regulatory system with GlnL, nitrogen regulator I (NRI)
+3583263..3584636	-	457	388479391	hemN	Y75_p3319	-	-	coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent
+3584825..3585334	-	169	388479392	yihI	Y75_p3320	-	-	hypothetical protein
+3585952..3586548	+	198	388479393	yihA	Y75_p3321	-	-	GTP-binding protein
+3586929..3589715	-	928	388479394	polA	Y75_p3322	-	-	fused DNA polymerase I 5'->3' exonuclease, 3'->5' polymerase and 3'->5' exonuclease
+3590079..3591011	+	310	388479395	yihG	Y75_p3323	-	-	endonuclease
+3591052..3592482	-	476	388479396	yihF	Y75_p3324	-	-	hypothetical protein
+3592637..3593263	-	208	388479397	dsbA	Y75_p3325	-	-	periplasmic protein disulfide isomerase I
+3593280..3594266	-	328	388479398	yihE	Y75_p3326	-	-	kinase
+3594343..3594612	-	89	388479399	yihD	Y75_p3327	-	-	hypothetical protein
+3594682..3595266	+	194	388479400	mobA	Y75_p3328	-	-	molybdopterin-guanine dinucleotide synthase
+3595263..3595775	+	170	388479401	mobB	Y75_p3329	-	-	molybdopterin-guanine dinucleotide biosynthesis protein B
+3601528..3602073	-	181	388479402	hemG	Y75_p3330	-	-	protoporphyrin oxidase, flavoprotein
+3602085..3603536	-	483	388479403	trkH	Y75_p3331	-	-	potassium transporter
+3603575..3604189	-	204	388479404	yigZ	Y75_p3332	-	-	elongation factor
+3604189..3605520	-	443	388479405	pepQ	Y75_p3333	-	-	proline dipeptidase
+3605710..3607899	+	729	388479406	fadB	Y75_p3334	-	-	bifunctional 3-hydroxybutyryl-CoA epimerase/delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/enoyl-CoA hydratase and 3-hydroxyacyl-CoA dehydrogenase
+3607909..3609072	+	387	388479407	fadA	Y75_p3335	-	-	3-ketoacyl-CoA thiolase
+3609453..3610154	-	233	388479408	fre	Y75_p3336	-	-	flavin reductase
+3610200..3611693	-	497	388479409	ubiD	Y75_p3337	-	-	3-octaprenyl-4-hydroxybenzoate decarboxylase
+3611860..3612348	+	162	388479410	rfaH	Y75_p3338	-	-	DNA-binding transcriptional antiterminator
+3612345..3613127	-	260	388479411	tatD	Y75_p3339	-	-	DNase, magnesium-dependent
+3613169..3613945	-	258	388479412	tatC	Y75_p3340	-	-	TatABCE protein translocation system subunit
+3613948..3614463	-	171	388479413	tatB	Y75_p3341	-	-	TatABCE protein translocation system subunit
+3614467..3614736	-	89	388479414	tatA	Y75_p3342	-	-	TatABCE protein translocation system subunit
+3614815..3616455	-	546	388479415	ubiB	Y75_p3343	-	-	2-octaprenylphenol hydroxylase
+3616452..3617057	-	201	388479416	yigP	Y75_p3344	-	-	hypothetical protein
+3617071..3617826	-	251	388479417	ubiE	Y75_p3345	-	-	bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/S-adenosylmethionine:2-DMK methyltransferase
+3617921..3619348	-	475	388479418	rmuC	Y75_p3346	-	-	recombination limiting protein
+3619489..3620250	-	253	388479419	udp	Y75_p3347	-	-	uridine phosphorylase
+3620512..3621327	+	271	388479420	ysgA	Y75_p3348	-	-	hydrolase
+3621367..3623628	-	753	388479421	metE	Y75_p3349	-	-	5-methyltetrahydropteroyltriglutamate- homocysteine S-methyltransferase
+3623865..3624818	+	317	388479422	metR	Y75_p3350	-	-	DNA-binding transcriptional activator
+3624706..3625605	-	299	388479423	yigM	Y75_p3351	-	-	inner membrane protein
+3625681..3626481	-	266	388479424	yigL	Y75_p3352	-	-	hydrolase
+3626489..3627511	-	340	388479425	pldB	Y75_p3353	-	-	lysophospholipase L(2)
+3627622..3628242	+	206	388479426	rhtB	Y75_p3354	-	-	neutral amino-acid efflux system
+3628304..3628924	-	206	388479427	rhtC	Y75_p3355	-	-	threonine efflux system
+3628988..3630817	-	609	388479428	recQ	Y75_p3356	-	-	ATP-dependent DNA helicase
+3630950..3631819	-	289	388479429	pldA	Y75_p3357	-	-	outer membrane phospholipase A
+3631984..3632451	+	155	388479430	yigI	Y75_p3358	-	-	hypothetical protein
+3632503..3633393	+	296	388479431	rarD	Y75_p3359	-	-	chloramphenical resistance permease
+3633488..3633868	+	126	388479432	yigG	Y75_p3360	-	-	inner membrane protein
+3633882..3634262	+	126	388479433	yigF	Y75_p3361	-	-	inner membrane protein
+3634305..3635255	-	316	388479434	corA	Y75_p3362	-	-	magnesium/nickel/cobalt transporter
+3635625..3636389	+	254	388479435	yigE	Y75_p3363	-	-	hypothetical protein
+3636536..3638698	-	720	388479436	uvrD	Y75_p3364	-	-	DNA-dependent ATPase I and helicase II
+3638782..3639498	-	238	388479437	yigB	Y75_p3365	-	-	hydrolase
+3639498..3640394	-	298	388479438	xerC	Y75_p3366	-	-	site-specific tyrosine recombinase
+3640391..3641098	-	235	388479439	yigA	Y75_p3367	-	-	hypothetical protein
+3641095..3641919	-	274	388479440	dapF	Y75_p3368	-	-	diaminopimelate epimerase
+3641956..3642159	-	67	388479441	yifL	Y75_p3369	-	-	lipoprotein
+3642346..3642831	-	161	388479442	yzcX	Y75_p3370	-	-	hypothetical protein
+3642622..3642942	+	106	388479443	cyaY	Y75_p3371	-	-	frataxin, iron-binding and oxidizing protein
+3642982..3645528	-	848	388479444	cyaA	Y75_p3372	-	-	adenylate cyclase
+3645915..3646856	+	313	388479445	hemC	Y75_p3373	-	-	hydroxymethylbilane synthase
+3646853..3647593	+	246	388479446	hemD	Y75_p3374	-	-	uroporphyrinogen III synthase
+3647615..3648796	+	393	388479447	hemX	Y75_p3375	-	-	uroporphyrinogen III methylase
+3648799..3649995	+	398	388479448	hemY	Y75_p3376	-	-	protoheme IX synthesis protein
+3650674..3652329	+	551	388479449	aslA	Y75_p3377	-	-	acrylsulfatase-like enzyme
+3652488..3653723	-	411	388479450	aslB	Y75_p3378	-	-	regulator of arylsulfatase activity
+3654409..3655794	-	461	388479451	yifK	Y75_p3379	-	-	transporter
+3655985..3656725	-	246	388479452	rffM	Y75_p3380	-	-	UDP-N-acetyl-D-mannosaminuronic acid transferase
+3656728..3658080	-	450	388479453	wzyE	Y75_p3381	-	-	Wzy protein involved in ECA polysaccharide chain elongation
+3658077..3659156	-	359	388479454	rffT	Y75_p3382	-	-	TDP-Fuc4NAc:lipidII transferase
+3659153..3660403	-	416	388479455	wzxE	Y75_p3383	-	-	O-antigen translocase
+3660405..3661535	-	376	388479456	rffA	Y75_p3384	-	-	TDP-4-oxo-6-deoxy-D-glucose transaminase
+3661540..3662085	-	181	388479457	rffC	Y75_p3385	-	-	TDP-fucosamine acetyltransferase
+3662192..3663073	-	293	388479458	rffH	Y75_p3386	-	-	glucose-1-phosphate thymidylyltransferase
+3663092..3664159	-	355	388479459	rffG	Y75_p3387	-	-	dTDP-glucose 4,6-dehydratase
+3664159..3665421	-	420	388479460	rffD	Y75_p3388	-	-	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase
+3665418..3666548	-	376	388479461	rffE	Y75_p3389	-	-	UDP-N-acetyl glucosamine-2-epimerase
+3666604..3667650	-	348	388479462	wzzE	Y75_p3390	-	-	Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein
+3667662..3668765	-	367	388479463	rfe	Y75_p3391	-	-	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase
+3669005..3670264	-	419	388479464	rho	Y75_p3392	-	-	transcription termination factor
+3670349..3670450	-	33	388479465	rhoL	Y75_p3393	-	-	rho operon leader peptide
+3670591..3670920	-	109	388479466	trxA	Y75_p3394	-	-	thioredoxin 1
+3671051..3672316	+	421	388479467	rhlB	Y75_p3395	-	-	ATP-dependent RNA helicase
+3672452..3673936	+	494	388479468	gpp	Y75_p3396	-	-	guanosine pentaphosphatase/exopolyphosphatase
+3673983..3676004	-	673	388479469	rep	Y75_p3397	-	-	DNA helicase and single-stranded DNA-dependent ATPase
+3676394..3676669	+	91	388479470	yifO	Y75_p3399	-	-	hypothetical protein
+3676868..3677149	+	93	388479471	ppiC	Y75_p3400	-	-	peptidyl-prolyl cis-trans isomerase C
+3677236..3678711	-	491	388479472	ilvC	Y75_p3401	-	-	ketol-acid reductoisomerase
+3678861..3679754	+	297	388479473	ilvY	Y75_p3402	-	-	DNA-binding transcriptional dual regulator
+3679806..3681350	-	514	388479474	ilvA	Y75_p3403	-	-	threonine deaminase
+3681353..3683203	-	616	388479475	ilvD	Y75_p3404	-	-	dihydroxyacid dehydratase
+3683268..3684197	-	309	388479476	ilvE	Y75_p3405	-	-	branched-chain amino-acid aminotransferase
+3684217..3684480	-	87	388479477	ilvM	Y75_p3406	-	-	acetolactate synthase II, small subunit
+3686261..3686359	-	32	388479478	ilvL	Y75_p3408	-	-	ilv operon leader peptide
+3686682..3688232	+	516	388479479	yifB	Y75_p3409	-	-	bifunctional protein, enzyme/transcriptional regulator
+3688257..3688595	-	112	388479480	yifE	Y75_p3410	-	-	hypothetical protein
+3688714..3689553	+	279	388479481	hdfR	Y75_p3411	-	-	DNA-binding transcriptional regulator
+3695354..3696046	+	230	388479482	yieP	Y75_p3412	-	-	transcriptional regulator
+3696069..3697496	+	475	388479483	hsrA	Y75_p3413	-	-	multidrug or homocysteine efflux system
+3697462..3698454	-	330	388479484	rbsR	Y75_p3414	-	-	DNA-binding transcriptional repressor
+3698458..3699387	-	309	388479485	rbsK	Y75_p3415	-	-	ribokinase
+3699513..3700403	-	296	388479486	rbsB	Y75_p3416	-	-	D-ribose transporter subunit
+3700428..3701393	-	321	388479487	rbsC	Y75_p3417	-	-	D-ribose transporter subunit
+3701398..3702903	-	501	388479488	rbsA	Y75_p3418	-	-	fused D-ribose transporter subunits and ATP-binding components ABC superfamily
+3702911..3703330	-	139	388479489	rbsD	Y75_p3419	-	-	cytoplasmic sugar-binding protein
+3703497..3705365	-	622	388479490	trkD	Y75_p3420	-	-	potassium transporter
+3705588..3707084	+	498	388479491	yieN	Y75_p3421	-	-	fused transcriptional regulators
+3707078..3708529	+	483	388479492	yieM	Y75_p3422	-	-	von Willibrand factor containing protein
+3708534..3709526	-	330	388479493	asnA	Y75_p3423	-	-	asparagine synthetase A
+3709678..3710136	+	152	388479494	asnC	Y75_p3424	-	-	DNA-binding transcriptional dual regulator
+3710226..3710669	+	147	388479495	mioC	Y75_p3425	-	-	FMN-binding protein MioC
+3711048..3712937	+	629	388479496	gidA	Y75_p3427	-	-	glucose-inhibited cell-division protein
+3713001..3713624	+	207	388479497	gidB	Y75_p3428	-	-	methyltransferase, glucose-inhibited cell-division protein
+3714241..3714621	+	126	388479498	atpI	Y75_p3429	-	-	ATP synthase, membrane-bound accesory subunit
+3714630..3715445	+	271	388479499	atpB	Y75_p3430	-	-	F0 sector of membrane-bound ATP synthase, subunit a
+3715492..3715731	+	79	388479500	atpE	Y75_p3431	-	-	F0 sector of membrane-bound ATP synthase, subunit c
+3715793..3716263	+	156	388479501	atpF	Y75_p3432	-	-	F0 sector of membrane-bound ATP synthase, subunit b
+3716278..3716811	+	177	388479502	atpH	Y75_p3433	-	-	F1 sector of membrane-bound ATP synthase subunit delta
+3716824..3718365	+	513	388479503	atpA	Y75_p3434	-	-	F1 sector of membrane-bound ATP synthase subunit alpha
+3718416..3719279	+	287	388479504	atpG	Y75_p3435	-	-	F1 sector of membrane-bound ATP synthase subunit gamma
+3719306..3720688	+	460	388479505	atpD	Y75_p3436	-	-	F1 sector of membrane-bound ATP synthase subunit beta
+3720709..3721128	+	139	388479506	atpC	Y75_p3437	-	-	F1 sector of membrane-bound ATP synthase subunit epsilon
+3721481..3722851	+	456	388479507	glmU	Y75_p3438	-	-	fused N-acetyl glucosamine-1-phosphate uridyltransferase and glucosamine-1-phosphate acetyl transferase
+3723013..3724842	+	609	388479508	glmS	Y75_p3439	-	-	L-glutamine:D-fructose-6-phosphate aminotransferase
+3725156..3726196	+	346	388479509	pstS	Y75_p3440	-	-	phosphate transporter subunit
+3726283..3727242	+	319	388479510	pstC	Y75_p3441	-	-	phosphate transporter subunit
+3727242..3728132	+	296	388479511	pstA	Y75_p3442	-	-	phosphate transporter subunit
+3728315..3729088	+	257	388479512	pstB	Y75_p3443	-	-	phosphate transporter subunit
+3729103..3729828	+	241	388479513	phoU	Y75_p3444	-	-	DNA-binding transcriptional regulator
+3730114..3730950	+	278	388479514	bglG	Y75_p3445	-	-	transcriptional antiterminator of the bgl operon
+3731084..3732961	+	625	388479515	bglF	Y75_p3446	-	-	PTS system beta-glucoside-specific transporter subunits IIABC
+3732980..3734392	+	470	388479516	bglB	Y75_p3447	-	-	cryptic phospho-beta-glucosidase B
+3734461..3736077	+	538	388479517	bglH	Y75_p3448	-	-	carbohydrate-specific outer membrane porin, cryptic
+3736077..3737273	+	398	388479518	yieL	Y75_p3449	-	-	xylanase
+3737288..3738010	+	240	388479519	yieK	Y75_p3450	-	-	6-phosphogluconolactonase
+3738072..3738659	-	195	388479520	cbrC	Y75_p3451	-	-	hypothetical protein
+3738708..3739175	-	155	388479521	yieI	Y75_p3452	-	-	inner membrane protein
+3739242..3739907	-	221	388479522	yieH	Y75_p3453	-	-	hydrolase
+3740072..3741409	+	445	388479523	yieG	Y75_p3454	-	-	inner membrane protein
+3741463..3742029	-	188	388479524	yieF	Y75_p3455	-	-	chromate reductase, Class I, flavoprotein
+3742051..3742812	-	253	388479525	yieE	Y75_p3456	-	-	phosphopantetheinyl transferase
+3742944..3743867	-	307	388479526	insD	Y75_p3457	-	-	IS2 element protein
+3743807..3744172	-	121	388479527	insC	Y75_p3458	-	-	IS2 element protein
+3744293..3745252	-	319	388479528	yidZ	Y75_p3459	-	-	DNA-binding transcriptional regulator
+3745227..3746402	-	391	388479529	mdtL	Y75_p3460	-	-	multidrug efflux system protein
+3746979..3747959	+	326	388479530	insH	Y75_p3462	-	-	IS5 element protein
+3749071..3750486	-	471	388479531	tnaA	Y75_p3463	-	-	tryptophanase/L-cysteine desulfhydrase, PLP-dependent
+3750659..3751639	+	326	388479532	insH	Y75_p3464	-	-	IS5 element protein
+3751906..3751980	-	24	388479533	tnaC	Y75_p3465	-	-	tryptophanase leader peptide
+3752223..3753587	-	454	388479534	trmE	Y75_p3466	-	-	GTPase
+3753693..3755339	-	548	388479535	yidC	Y75_p3467	-	-	cytoplasmic insertase into membrane protein, Sec system
+3755342..3755599	-	85	388479536	yidD	Y75_p3468	-	-	hypothetical protein
+3755563..3755922	-	119	388479537	rnpA	Y75_p3469	-	-	protein C5 component of RNase P
+3755939..3756079	-	46	388479538	rpmH	Y75_p3470	-	-	50S ribosomal protein L34
+3756686..3758089	+	467	388479539	dnaA	Y75_p3471	-	-	chromosomal replication initiator protein DnaA, DNA-binding transcriptional dual regulator
+3758094..3759194	+	366	388479540	dnaN	Y75_p3472	-	-	DNA polymerase III subunit beta
+3759194..3760267	+	357	388479541	recF	Y75_p3473	-	-	gap repair protein
+3760296..3762710	+	804	388479542	gyrB	Y75_p3474	-	-	DNA gyrase, subunit B
+3762950..3763348	+	132	388479543	yidB	Y75_p3475	-	-	hypothetical protein
+3763463..3764275	+	270	388479544	yidA	Y75_p3476	-	-	hydrolase
+3764321..3764977	-	218	388479545	yidX	Y75_p3477	-	-	lipoproteinC
+3765255..3765944	+	229	388479546	dgoR	Y75_p3478	-	-	DNA-binding transcriptional regulator
+3765941..3766819	+	292	388479547	dgoK	Y75_p3479	-	-	2-oxo-3-deoxygalactonate kinase
+3766803..3767420	+	205	388479548	dgoA	Y75_p3480	-	-	2-oxo-3-deoxygalactonate 6-phosphate aldolase
+3767417..3768565	+	382	388479549	dgoD	Y75_p3481	-	-	galactonate dehydratase
+3768685..3769977	+	430	388479550	dgoT	Y75_p3482	-	-	D-galactonate transporter
+3769974..3771038	-	354	388479551	cbrA	Y75_p3483	-	-	oxidoreductase
+3771139..3772353	+	404	388479552	yidR	Y75_p3484	-	-	hypothetical protein
+3772355..3772687	-	110	388479553	yidQ	Y75_p3485	-	-	outer membrane protein
+3772993..3773406	+	137	388479554	ibpA	Y75_p3486	-	-	heat shock chaperone
+3773518..3773946	+	142	388479555	ibpB	Y75_p3487	-	-	heat shock chaperone
+3774142..3775803	+	553	388479556	yidE	Y75_p3488	-	-	transporter
+3775800..3776516	-	238	388479557	yidP	Y75_p3489	-	-	DNA-binding transcriptional regulator
+3776812..3777918	+	368	388479558	glvC	Y75_p3490	-	-	PTS system arbutin-specific transporter subunit IIC
+3777943..3778428	+	161	388479559	glvB	Y75_p3491	-	-	PTS system arbutin-specific transporter subunit IIB
+3779239..3780162	-	307	388479560	yidL	Y75_p3494	-	-	DNA-binding transcriptional regulator
+3780299..3782014	+	571	388479561	yidK	Y75_p3495	-	-	transporter
+3782011..3783504	+	497	388479562	yidJ	Y75_p3496	-	-	sulfatase/phosphatase
+3783551..3784000	-	149	388479563	yidI	Y75_p3497	-	-	inner membrane protein
+3784108..3784455	+	115	388479564	yidH	Y75_p3498	-	-	inner membrane protein
+3784445..3784807	+	120	388479565	yidG	Y75_p3499	-	-	inner membrane protein
+3784804..3785301	+	165	388479566	yidF	Y75_p3500	-	-	DNA-binding transcriptional regulator
+3785309..3786493	-	394	388479567	emrD	Y75_p3501	-	-	multidrug efflux system protein
+3787427..3787525	+	32	388479568	ivbL	Y75_p3502	-	-	ilvB operon leader peptide
+3787631..3789319	+	562	388479569	ilvB	Y75_p3503	-	-	acetolactate synthase I, large subunit
+3789323..3789613	+	96	388479570	ilvN	Y75_p3504	-	-	acetolactate synthase I, small subunit
+3789689..3790279	+	196	388479571	uhpA	Y75_p3505	-	-	DNA-binding response regulator in two-component regulatory system wtih UhpB
+3790279..3791781	+	500	388479572	uhpB	Y75_p3506	-	-	sensory histidine kinase in two-component regulatory sytem with UhpA
+3791791..3793110	+	439	388479573	uhpC	Y75_p3507	-	-	membrane protein regulates uhpT expression
+3793248..3794639	+	463	388479574	uhpT	Y75_p3508	-	-	hexose phosphate transporter
+3794685..3796451	-	588	388479575	ade	Y75_p3509	-	-	cryptic adenine deaminase
+3796626..3797960	+	444	388479576	yicO	Y75_p3510	-	-	xanthine/uracil permase
+3798013..3798465	+	150	388479577	yicN	Y75_p3511	-	-	hypothetical protein
+3798511..3799866	+	451	388479578	yicM	Y75_p3512	-	-	transporter
+3799907..3800200	-	97	388479579	yicS	Y75_p3513	-	-	hypothetical protein
+3800422..3801240	+	272	388479580	nlpA	Y75_p3514	-	-	cytoplasmic membrane lipoprotein-28
+3801244..3802167	-	307	388479581	yicL	Y75_p3515	-	-	inner membrane protein
+3802278..3803462	-	394	388479582	setC	Y75_p3516	-	-	sugar efflux system
+3804486..3805868	+	460	388479583	yicJ	Y75_p3517	-	-	transporter
+3805878..3808196	+	772	388479584	yicI	Y75_p3518	-	-	alpha-glucosidase
+3808249..3809958	-	569	388479585	yicH	Y75_p3519	-	-	hypothetical protein
+3810079..3811470	-	463	388479586	yicE	Y75_p3520	-	-	transporter
+3811750..3812955	+	401	388479587	gltS	Y75_p3521	-	-	glutamate transporter
+3813124..3815205	-	693	388479588	recG	Y75_p3522	-	-	ATP-dependent DNA helicase
+3815211..3815900	-	229	388479589	trmH	Y75_p3523	-	-	tRNA (Guanosine-2'-O-)-methyltransferase
+3815907..3818015	-	702	388479590	spoT	Y75_p3524	-	-	bifunctional (p)ppGpp synthetase II/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+3818034..3818309	-	91	388479591	rpoZ	Y75_p3525	-	-	RNA polymerase, omega subunit
+3818364..3818987	-	207	388479592	gmk	Y75_p3526	-	-	guanylate kinase
+3819245..3820927	+	560	388479593	ligB	Y75_p3527	-	-	DNA ligase, NAD(+)-dependent
+3820924..3821541	-	205	388479594	yicG	Y75_p3528	-	-	inner membrane protein
+3821831..3822655	-	274	388479595	dinD	Y75_p3529	-	-	DNA-damage-inducible protein
+3822876..3823739	-	287	388479596	yicC	Y75_p3530	-	-	hypothetical protein
+3824647..3825288	+	213	388479597	pyrE	Y75_p3532	-	-	orotate phosphoribosyltransferase
+3825325..3825921	-	198	388479598	ttk	Y75_p3533	-	-	division inhibitor
+3826028..3826483	-	151	388479599	dut	Y75_p3534	-	-	deoxyuridinetriphosphatase
+3826464..3827684	-	406	388479600	dfp	Y75_p3535	-	-	bifunctional 4'-phosphopantothenoylcysteine decarboxylase and phosphopantothenoylcysteine synthetase, FMN-binding
+3827856..3828524	+	222	388479601	yicR	Y75_p3536	-	-	DNA repair protein
+3828741..3828977	+	78	388479602	rpmB	Y75_p3537	-	-	50S ribosomal protein L28
+3828998..3829165	+	55	388479603	rpmG	Y75_p3538	-	-	50S ribosomal protein L33
+3829263..3830072	+	269	388479604	mutM	Y75_p3539	-	-	formamidopyrimidine/5-formyluracil/ 5-hydroxymethyluracil DNA glycosylase
+3830111..3830590	-	159	388479605	coaD	Y75_p3540	-	-	pantetheine-phosphate adenylyltransferase
+3830598..3831875	-	425	388479606	kdtA	Y75_p3541	-	-	3-deoxy-D-manno-octulosonic-acid transferase
+3832317..3833351	+	344	388479607	rfaQ	Y75_p3542	-	-	lipopolysaccharide core biosynthesis protein
+3833348..3834472	+	374	388479608	rfaG	Y75_p3543	-	-	glucosyltransferase I
+3834465..3835262	+	265	388479609	rfaP	Y75_p3544	-	-	kinase that phosphorylates core heptose of lipopolysaccharide
+3835299..3836234	+	311	388479610	rfaS	Y75_p3545	-	-	lipopolysaccharide core biosynthesis protein
+3836248..3837357	+	369	388479611	rfaB	Y75_p3546	-	-	UDP-D-galactose:(glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase
+3837357..3838376	+	339	388479612	rfaI	Y75_p3547	-	-	UDP-D-galactose:(glucosyl)lipopolysaccharide- alpha-1,3-D-galactosyltransferase
+3838416..3839432	+	338	388479613	rfaJ	Y75_p3548	-	-	UDP-D-glucose:(galactosyl)lipopolysaccharide glucosyltransferase
+3839450..3840148	+	232	388479614	rfaY	Y75_p3549	-	-	lipopolysaccharide core biosynthesis protein
+3840219..3841070	+	283	388479615	rfaZ	Y75_p3550	-	-	lipopolysaccharide core biosynthesis protein
+3841103..3842176	+	357	388479616	rfaK	Y75_p3551	-	-	lipopolysaccharide core biosynthesis
+3842208..3843467	-	419	388479617	rfaL	Y75_p3552	-	-	O-antigen ligase
+3843477..3844436	-	319	388479618	rfaC	Y75_p3553	-	-	ADP-heptose:LPS heptosyl transferase I
+3844440..3845486	-	348	388479619	rfaF	Y75_p3554	-	-	ADP-heptose:LPS heptosyltransferase II
+3845496..3846428	-	310	388479620	rfaD	Y75_p3555	-	-	ADP-L-glycero-D-mannoheptose-6-epimerase
+3846732..3847589	+	285	388479621	htrL	Y75_p3556	-	-	hypothetical protein
+3847864..3849060	+	398	388479622	kbl	Y75_p3557	-	-	glycine C-acetyltransferase
+3849070..3850095	+	341	388479623	tdh	Y75_p3558	-	-	threonine 3-dehydrogenase
+3850334..3851368	+	344	388479624	yibD	Y75_p3559	-	-	glycosyl transferase
+3851355..3852314	-	319	388479625	yibQ	Y75_p3560	-	-	polysaccharide deacetylase
+3852318..3853577	-	419	388479626	envC	Y75_p3561	-	-	protease with a role in cell division
+3853611..3855155	-	514	388479627	gpmI	Y75_p3562	-	-	phosphoglycero mutase III, cofactor-independent
+3855400..3855831	+	143	388479628	yibN	Y75_p3563	-	-	rhodanese-related sulfurtransferase
+3855973..3856224	+	83	388479629	grxC	Y75_p3564	-	-	glutaredoxin 3
+3856287..3856754	+	155	388479630	secB	Y75_p3565	-	-	protein export chaperone
+3856754..3857773	+	339	388479631	gpsA	Y75_p3566	-	-	glycerol-3-phosphate dehydrogenase (NAD+)
+3857853..3858674	+	273	388479632	cysE	Y75_p3567	-	-	serine acetyltransferase
+3858727..3859200	-	157	388479633	yibK	Y75_p3568	-	-	rRNA methylase
+3859398..3860588	-	396	388479634	lldD	Y75_p3569	-	-	L-lactate dehydrogenase, FMN-linked
+3860585..3861361	-	258	388479635	lldR	Y75_p3570	-	-	DNA-binding transcriptional repressor
+3861361..3863016	-	551	388479636	lldP	Y75_p3571	-	-	L-lactate permease
+3863388..3863750	-	120	388479637	yibL	Y75_p3572	-	-	hypothetical protein
+3864035..3864244	+	69	388479638	yibT	Y75_p3573	-	-	hypothetical protein
+3864256..3864843	-	195	388479639	mtlR	Y75_p3574	-	-	DNA-binding transcriptional repressor
+3864843..3865991	-	382	388479640	mtlD	Y75_p3575	-	-	mannitol-1-phosphate dehydrogenase
+3866221..3868134	-	637	388479641	mtlA	Y75_p3576	-	-	fused mannitol-specific PTS enzyme IIABC components
+3868671..3869033	+	120	388479642	yibI	Y75_p3577	-	-	inner membrane protein
+3869036..3870172	+	378	388479643	yibH	Y75_p3578	-	-	hypothetical protein
+3871777..3872238	-	153	388479644	yibG	Y75_p3579	-	-	hypothetical protein
+3872493..3873194	-	233	388479645	yibJ	Y75_p3580	-	-	Rhs-family protein
+3873236..3874078	-	280	388479646	yibA	Y75_p3581	-	-	lyase containing HEAT-repeat
+3874099..3878232	-	1377	388479647	rhsA	Y75_p3582	-	-	rhsA element core protein RshA
+3878460..3879068	+	202	388479648	yibF	Y75_p3583	-	-	glutathione S-transferase
+3879166..3880557	+	463	388479649	selA	Y75_p3584	-	-	selenocysteine synthase
+3880554..3882398	+	614	388479650	selB	Y75_p3585	-	-	selenocysteinyl-tRNA-specific translation factor
+3882588..3883739	+	383	388479651	yiaY	Y75_p3586	-	-	Fe-containing alcohol dehydrogenase
+3883904..3885442	+	512	388479652	aldB	Y75_p3587	-	-	aldehyde dehydrogenase B
+3885987..3886310	+	107	388479653	yiaW	Y75_p3588	-	-	inner membrane protein
+3886316..3887452	+	378	388479654	yiaV	Y75_p3589	-	-	membrane fusion protein (MFP) component of efflux pump, signal anchor
+3887449..3888423	-	324	388479655	yiaU	Y75_p3590	-	-	DNA-binding transcriptional regulator
+3888547..3889287	+	246	388479656	yiaT	Y75_p3591	-	-	hypothetical protein
+3889634..3890329	-	231	388479657	sgbE	Y75_p3592	-	-	L-ribulose-5-phosphate 4-epimerase
+3890323..3891183	-	286	388479658	sgbU	Y75_p3593	-	-	L-xylulose 5-phosphate 3-epimerase
+3891176..3891838	-	220	388479659	sgbH	Y75_p3594	-	-	3-keto-L-gulonate 6-phosphate decarboxylase
+3891835..3893331	-	498	388479660	lyxK	Y75_p3595	-	-	L-xylulose kinase
+3893335..3894321	-	328	388479661	yiaO	Y75_p3596	-	-	transporter
+3894334..3895611	-	425	388479662	yiaN	Y75_p3597	-	-	transporter
+3895614..3896087	-	157	388479663	yiaM	Y75_p3598	-	-	transporter
+3896205..3896672	-	155	388479664	yiaL	Y75_p3599	-	-	hypothetical protein
+3896684..3897682	-	332	388479665	yiaK	Y75_p3600	-	-	2,3-diketo-L-gulonate dehydrogenase
+3897883..3898731	+	282	388479666	yiaJ	Y75_p3601	-	-	DNA-binding transcriptional repressor
+3898833..3899306	+	157	388479667	yiaI	Y75_p3602	-	-	hydrogenase, 4Fe-4S ferredoxin-type component
+3899457..3900710	-	417	388479668	avtA	Y75_p3603	-	-	valine-pyruvate aminotransferase
+3900888..3902918	-	676	388479669	malS	Y75_p3604	-	-	alpha-amylase
+3903238..3904062	+	274	388479670	bax	Y75_p3605	-	-	hypothetical protein
+3904258..3905436	-	392	388479671	xylR	Y75_p3606	-	-	DNA-binding transcriptional activator
+3905514..3906695	-	393	388479672	xylH	Y75_p3607	-	-	D-xylose transporter subunit
+3906673..3908214	-	513	388479673	xylG	Y75_p3608	-	-	D-xylose ABC transporter ATP-binding protein
+3908292..3909284	-	330	388479674	xylF	Y75_p3609	-	-	D-xylose transporter subunit
+3909650..3910972	+	440	388479675	xylA	Y75_p3610	-	-	D-xylose isomerase
+3911044..3912498	+	484	388479676	xylB	Y75_p3611	-	-	xylulokinase
+3912667..3913008	+	113	388479677	yiaB	Y75_p3612	-	-	inner membrane protein
+3913054..3913491	+	145	388479678	yiaA	Y75_p3613	-	-	inner membrane protein
+3913533..3914528	-	331	388479679	yiaH	Y75_p3614	-	-	inner membrane protein
+3914703..3915002	+	99	388479680	ysaB	Y75_p3615	-	-	hypothetical protein
+3915097..3916008	+	303	388479681	glyQ	Y75_p3616	-	-	glycine tRNA synthetase subunit alpha
+3916018..3918087	+	689	388479682	glyS	Y75_p3617	-	-	glycine tRNA synthetase subunit beta
+3918366..3919217	-	283	388479683	insK	Y75_p3618	-	-	IS150 protein InsB
+3919214..3919735	-	173	388479684	insJ	Y75_p3619	-	-	IS150 protein InsA
+3919815..3919967	+	50	388479685	hokA	Y75_p3620	-	-	toxic polypeptide
+3920154..3920366	-	70	388479686	cspA	Y75_p3621	-	-	major cold shock protein
+3920647..3920937	-	96	388479687	yiaG	Y75_p3622	-	-	transcriptional regulator
+3921371..3922081	+	236	388479688	yiaF	Y75_p3623	-	-	hypothetical protein
+3922131..3923105	-	324	388479689	tiaE	Y75_p3624	-	-	2-keto-D-gluconate reductase
+3923209..3923868	-	219	388479690	yiaD	Y75_p3625	-	-	outer membrane lipoprotien
+3924075..3926354	+	759	388479691	bisC	Y75_p3626	-	-	biotin sulfoxide reductase
+3926323..3926763	-	146	388479692	yiaC	Y75_p3627	-	-	acyltransferase
+3926760..3927323	-	187	388479693	tag	Y75_p3628	-	-	3-methyl-adenine DNA glycosylase I
+3927481..3928179	+	232	388479694	yhjY	Y75_p3629	-	-	hypothetical protein
+3928408..3929616	+	402	388479695	yhjX	Y75_p3630	-	-	transporter
+3929940..3931631	+	563	388479696	eptB	Y75_p3631	-	-	metal dependent hydrolase
+3932710..3934317	+	535	388479697	dppA	Y75_p3632	-	-	dipeptide transporter
+3934625..3935644	+	339	388479698	dppB	Y75_p3633	-	-	dipeptide transporter
+3935654..3936556	+	300	388479699	dppC	Y75_p3634	-	-	dipeptide transporter
+3936567..3937550	+	327	388479700	dppD	Y75_p3635	-	-	dipeptide transporter
+3937547..3938551	+	334	388479701	dppF	Y75_p3636	-	-	dipeptide transporter
+3938581..3939852	-	423	388479702	yhjV	Y75_p3637	-	-	transporter
+3940328..3940435	+	35	388479703	ldrD	Y75_p3638	-	-	toxic polypeptide
+3940522..3942201	-	559	388479704	bcsG	Y75_p3639	-	-	inner membrane protein
+3942198..3942389	-	63	388479705	bcsF	Y75_p3640	-	-	hypothetical protein
+3942386..3943957	-	523	388479706	bcsE	Y75_p3641	-	-	hypothetical protein
+3944230..3944418	+	62	388479707	yhjR	Y75_p3642	-	-	hypothetical protein
+3945179..3947797	+	872	388479708	bcsA	Y75_p3644	-	-	cellulose synthase, catalytic subunit
+3947808..3950147	+	779	388479709	bcsB	Y75_p3645	-	-	regulator of cellulose synthase, cyclic di-GMP binding
+3950154..3951260	+	368	388479710	bcsZ	Y75_p3646	-	-	endo-1,4-D-glucanase
+3951242..3954715	+	1157	388479711	bcsC	Y75_p3647	-	-	cellulose synthase subunit
+3954836..3956785	+	649	388479712	yhjK	Y75_p3648	-	-	diguanylate cyclase
+3956968..3958254	+	428	388479713	dctA	Y75_p3649	-	-	C4-dicarboxylic acid, orotate and citrate transporter
+3958475..3959971	+	498	388479714	yhjJ	Y75_p3650	-	-	zinc-dependent peptidase
+3960067..3960996	-	309	388479715	kdgK	Y75_p3651	-	-	ketodeoxygluconokinase
+3961228..3961995	+	255	388479716	yhjH	Y75_p3652	-	-	EAL domain containing protein involved in flagellar function
+3962050..3964125	+	691	388479717	yhjG	Y75_p3653	-	-	outer membrane biogenesis protein
+3964307..3965629	-	440	388479718	yhjE	Y75_p3654	-	-	transporter
+3966040..3967053	-	337	388479719	yhjD	Y75_p3655	-	-	inner membrane protein
+3967102..3968073	-	323	388479720	yhjC	Y75_p3656	-	-	DNA-binding transcriptional regulator
+3968521..3969123	+	200	388479721	yhjB	Y75_p3657	-	-	DNA-binding response regulator in two-component regulatory system
+3969174..3970823	-	549	388479722	treF	Y75_p3658	-	-	cytoplasmic trehalase
+3971227..3972624	+	465	388479723	yhjA	Y75_p3659	-	-	cytochrome C peroxidase
+3972835..3974235	+	466	388479724	gadA	Y75_p3660	-	-	glutamate decarboxylase A, PLP-dependent
+3974605..3975429	+	274	388479725	gadX	Y75_p3661	-	-	DNA-binding transcriptional dual regulator
+3975797..3976525	+	242	388479726	gadW	Y75_p3662	-	-	DNA-binding transcriptional activator
+3976888..3980001	-	1037	388479727	mdtF	Y75_p3663	-	-	multidrug transporter, RpoS-dependent
+3980026..3981183	-	385	388479728	mdtE	Y75_p3664	-	-	multidrug resistance efflux transporter
+3981522..3982049	-	175	388479729	gadE	Y75_p3665	-	-	DNA-binding transcriptional activator
+3982848..3983420	-	190	388479730	hdeD	Y75_p3666	-	-	acid-resistance membrane protein
+3983675..3984007	+	110	388479731	hdeA	Y75_p3667	-	-	stress response protein acid-resistance protein
+3984123..3984449	+	108	388479732	hdeB	Y75_p3668	-	-	acid-resistance protein
+3984513..3985160	+	215	388479733	yhiD	Y75_p3669	-	-	Mg(2+) transport ATPase inner membrane protein
+3985202..3985732	-	176	388479734	yhiF	Y75_p3670	-	-	DNA-binding ranscriptional regulator
+3985888..3986454	-	188	388479735	slp	Y75_p3671	-	-	outer membrane lipoprotein
+3987217..3988233	+	338	388479736	insH	Y75_p3672	-	-	IS5 transposase and trans-activator
+3988342..3989124	-	260	388479737	yhiS	Y75_p3673	-	-	hypothetical protein
+3989753..3990178	-	141	388479738	arsC	Y75_p3674	-	-	arsenate reductase
+3990191..3991480	-	429	388479739	arsB	Y75_p3675	-	-	arsenite/antimonite transporter
+3991534..3991887	-	117	388479740	arsR	Y75_p3676	-	-	DNA-binding transcriptional regulator
+3992764..3994116	-	450	388479741	gor	Y75_p3677	-	-	glutathione oxidoreductase
+3994188..3995030	-	280	388479742	yhiR	Y75_p3678	-	-	DNA (exogenous) processing protein
+3995233..3997275	+	680	388479743	prlC	Y75_p3679	-	-	oligopeptidase A
+3997283..3998035	+	250	388479744	yhiQ	Y75_p3680	-	-	SAM-dependent methyltransferase
+3998084..3999553	-	489	388479745	yhiP	Y75_p3681	-	-	transporter
+3999870..4000304	-	144	388479746	uspA	Y75_p3682	-	-	universal stress global response regulator
+4000695..4001030	+	111	388479747	yhiO	Y75_p3683	-	-	universal stress (ethanol tolerance) protein B
+4001274..4002773	-	499	388479748	pitA	Y75_p3684	-	-	phosphate transporter, low-affinity
+4003005..4004207	+	400	388479749	yhiN	Y75_p3685	-	-	oxidoreductase
+4004522..4005574	-	350	388479750	yhiM	Y75_p3686	-	-	inner membrane protein
+4005957..4007195	+	412	388479751	yhiL	Y75_p3687	-	-	hypothetical protein
+4007825..4009447	+	540	388479752	yhiJ	Y75_p3689	-	-	hypothetical protein
+4009813..4010880	+	355	388479753	yhiI	Y75_p3690	-	-	HlyD family secretion protein
+4010877..4013612	+	911	388479754	rbbA	Y75_p3691	-	-	fused ribosome-associated ATPases
+4013612..4014736	+	374	388479755	yhhJ	Y75_p3692	-	-	transporter subunit
+4014901..4016037	-	378	388479756	yhhI	Y75_p3693	-	-	transposase
+4016633..4017016	-	127	388479757	yhhH	Y75_p3695	-	-	hypothetical protein
+4016988..4021223	-	1411	388479758	rhsB	Y75_p3696	-	-	rhsB element core protein RshB
+4021426..4021827	-	133	388479759	nikR	Y75_p3697	-	-	DNA-binding transcriptional regulator
+4021833..4022639	-	268	388479760	nikE	Y75_p3698	-	-	nickel transporter subunit
+4022636..4023400	-	254	388479761	nikD	Y75_p3699	-	-	nickel transporter subunit
+4023400..4024233	-	277	388479762	nikC	Y75_p3700	-	-	nickel transporter subunit
+4024230..4025174	-	314	388479763	nikB	Y75_p3701	-	-	nickel transporter subunit
+4025174..4026748	-	524	388479764	nikA	Y75_p3702	-	-	nickel transporter subunit
+4026859..4027446	-	195	388479765	acpT	Y75_p3703	-	-	holo-(acyl carrier protein) synthase 2
+4027501..4028550	-	349	388479766	yhhT	Y75_p3704	-	-	inner membrane protein
+4028682..4029899	+	405	388479767	yhhS	Y75_p3705	-	-	transporter
+4029903..4030460	-	185	388479768	dcrB	Y75_p3706	-	-	hypothetical protein
+4030533..4031198	-	221	388479769	yhhQ	Y75_p3707	-	-	inner membrane protein
+4031419..4031664	+	81	388479770	yhhP	Y75_p3708	-	-	hypothetical protein
+4031766..4033964	-	732	388479771	zntA	Y75_p3709	-	-	zinc, cobalt and lead efflux system
+4034038..4034664	-	208	388479772	yhhN	Y75_p3710	-	-	inner membrane protein
+4034805..4035164	+	119	388479773	yhhM	Y75_p3711	-	-	hypothetical protein
+4035167..4035436	-	89	388479774	yhhL	Y75_p3712	-	-	inner membrane protein
+4035426..4036022	-	198	388479775	yhhF	Y75_p3713	-	-	methyltransferase
+4036172..4037665	+	497	388479776	ftsY	Y75_p3714	-	-	fused Signal Recognition Particle (SRP) receptor
+4037668..4038336	+	222	388479777	ftsE	Y75_p3715	-	-	transporter subunit
+4038329..4039387	+	352	388479778	ftsX	Y75_p3716	-	-	transporter subunit
+4039632..4040486	+	284	388479779	rpoH	Y75_p3717	-	-	RNA polymerase, sigma 32 (sigma H) factor
+4040757..4041860	+	367	388479780	livJ	Y75_p3718	-	-	leucine/isoleucine/valine transporter subunit
+4042048..4042431	-	127	388479781	yhhK	Y75_p3719	-	-	hypothetical protein
+4042855..4043964	+	369	388479782	livK	Y75_p3720	-	-	leucine transporter subunit
+4044012..4044938	+	308	388479783	livH	Y75_p3721	-	-	leucine/isoleucine/valine transporter subunit
+4044935..4046212	+	425	388479784	livM	Y75_p3722	-	-	leucine/isoleucine/valine transporter subunit
+4046209..4046976	+	255	388479785	livG	Y75_p3723	-	-	leucine/isoleucine/valine transporter subunit
+4046978..4047691	+	237	388479786	livF	Y75_p3724	-	-	leucine/isoleucine/valine transporter subunit
+4048090..4049406	+	438	388479787	ugpB	Y75_p3725	-	-	glycerol-3-phosphate transporter subunit
+4049504..4050391	+	295	388479788	ugpA	Y75_p3726	-	-	glycerol-3-phosphate transporter subunit
+4050388..4051233	+	281	388479789	ugpE	Y75_p3727	-	-	glycerol-3-phosphate transporter subunit
+4051235..4052305	+	356	388479790	ugpC	Y75_p3728	-	-	glycerol-3-phosphate transporter subunit
+4052302..4053045	+	247	388479791	ugpQ	Y75_p3729	-	-	glycerophosphodiester phosphodiesterase, cytosolic
+4053032..4053472	-	146	388479792	yhhA	Y75_p3730	-	-	hypothetical protein
+4053592..4055334	+	580	388479793	ggt	Y75_p3731	-	-	gamma-glutamyltranspeptidase
+4055372..4055656	-	94	388479794	yrhB	Y75_p3732	-	-	hypothetical protein
+4056235..4056738	-	167	388479795	insB	Y75_p3733	-	-	IS1 transposase InsAB'
+4056657..4056932	-	91	388479796	insA	Y75_p3734	-	-	IS1 repressor protein InsA
+4056961..4057374	-	137	388479797	yrhA	Y75_p3735	-	-	hypothetical protein
+4057374..4058552	-	392	388479798	yhhZ	Y75_p3736	-	-	hypothetical protein
+4058789..4059277	-	162	388479799	yhhY	Y75_p3737	-	-	acetyltransferase
+4059610..4060647	+	345	388479800	yhhX	Y75_p3738	-	-	oxidoreductase with NAD(P)-binding Rossmann-fold domain
+4060770..4061465	+	231	388479801	yhhW	Y75_p3739	-	-	hypothetical protein
+4061689..4062684	+	331	388479802	gntR	Y75_p3740	-	-	DNA-binding transcriptional repressor
+4062823..4063350	+	175	388479803	gntK	Y75_p3741	-	-	gluconate kinase 2
+4063354..4064694	+	446	388479804	gntU	Y75_p3742	-	-	gluconate transporter, low affinity GNT 1 system
+4064751..4065344	-	197	388479805	yhgN	Y75_p3743	-	-	antibiotic transporter
+4065537..4066640	+	367	388479806	asd	Y75_p3744	-	-	aspartate-semialdehyde dehydrogenase
+4066913..4069099	+	728	388479807	glgB	Y75_p3745	-	-	1,4-alpha-glucan branching protein
+4069096..4071069	+	657	388479808	glgX	Y75_p3746	-	-	glycogen debranching enzyme
+4071087..4072382	+	431	388479809	glgC	Y75_p3747	-	-	glucose-1-phosphate adenylyltransferase
+4072382..4073815	+	477	388479810	glgA	Y75_p3748	-	-	glycogen synthase
+4073834..4076281	+	815	388479811	glgP	Y75_p3749	-	-	glycogen phosphorylase
+4076410..4076691	+	93	388479812	yzgL	Y75_p3750	-	-	hypothetical protein
+4076897..4078402	-	501	388479813	glpD	Y75_p3751	-	-	sn-glycerol-3-phosphate dehydrogenase, aerobic
+4078592..4078918	+	108	388479814	glpE	Y75_p3752	-	-	thiosulfate:cyanide sulfurtransferase
+4078963..4079793	+	276	388479815	glpG	Y75_p3753	-	-	intramembrane serine protease
+4079810..4080568	+	252	388479816	glpR	Y75_p3754	-	-	DNA-binding transcriptional repressor
+4080550..4082148	-	532	388479817	rtcR	Y75_p3755	-	-	sigma 54-dependent transcriptional regulator of rtcBA expression
+4082337..4083563	+	408	388479818	rtcB	Y75_p3756	-	-	hypothetical protein
+4083567..4084583	+	338	388479819	rtcA	Y75_p3757	-	-	RNA 3'-terminal phosphate cyclase
+4084626..4087331	-	901	388479820	malT	Y75_p3758	-	-	DNA-binding transcriptional activator
+4087943..4090336	+	797	388479821	malP	Y75_p3759	-	-	maltodextrin phosphorylase
+4090346..4092430	+	694	388479822	malQ	Y75_p3760	-	-	4-alpha-glucanotransferase
+4092541..4093857	-	438	388479823	gntT	Y75_p3761	-	-	gluconate transporter, high-affinity GNT I system
+4094217..4094792	-	191	388479824	gntY	Y75_p3762	-	-	gluconate transport associated protein
+4094851..4095534	-	227	388479825	gntX	Y75_p3763	-	-	gluconate periplasmic binding protein with phosphoribosyltransferase domain, GNT I system
+4095572..4096342	+	256	388479826	bioH	Y75_p3764	-	-	carboxylesterase of pimeloyl-CoA synthesis
+4096371..4097249	-	292	388479827	yhgA	Y75_p3765	-	-	transposase
+4097452..4097688	-	78	388479828	yhgG	Y75_p3766	-	-	DNA-binding transcriptional regulator
+4097688..4100009	-	773	388479829	feoB	Y75_p3767	-	-	fused ferrous iron transporter, protein B
+4100026..4100253	-	75	388479830	feoA	Y75_p3768	-	-	ferrous iron transporter, protein A
+4100710..4103031	-	773	388479831	yhgF	Y75_p3769	-	-	transcriptional accessory protein
+4103128..4103604	-	158	388479832	greB	Y75_p3770	-	-	transcription elongation factor
+4103832..4104551	+	239	388479833	ompR	Y75_p3771	-	-	DNA-binding response regulator in two-component regulatory system with EnvZ
+4104548..4105900	+	450	388479834	envZ	Y75_p3772	-	-	sensory histidine kinase in two-component regulatory system with OmpR
+4105976..4107598	-	540	388479835	pck	Y75_p3773	-	-	phosphoenolpyruvate carboxykinase
+4107977..4109701	+	574	388479836	yhgE	Y75_p3774	-	-	inner membrane protein
+4109764..4110642	-	292	388479837	hslO	Y75_p3775	-	-	heat shock protein Hsp33
+4110667..4111068	-	133	388479838	hslR	Y75_p3776	-	-	ribosome-associated heat shock protein Hsp15
+4111079..4111747	-	222	388479839	yrfG	Y75_p3777	-	-	hydrolase
+4111812..4113947	-	711	388479840	yrfF	Y75_p3778	-	-	inner membrane protein
+4114267..4114827	+	186	388479841	nudE	Y75_p3779	-	-	ADP-ribose diphosphatase
+4114993..4117545	-	850	388479842	mrcA	Y75_p3780	-	-	fused penicillin-binding protein 1a murein transglycosylase and murein transpeptidase
+4117665..4118444	+	259	388479843	yrfD	Y75_p3781	-	-	pilus assembly protein
+4118444..4118983	+	179	388479844	yrfC	Y75_p3782	-	-	fimbrial assembly protein
+4118967..4119407	+	146	388479845	yrfB	Y75_p3783	-	-	membrane protein
+4119397..4119801	+	134	388479846	yrfA	Y75_p3784	-	-	hypothetical protein
+4119713..4120951	+	412	388479847	hofQ	Y75_p3785	-	-	fimbrial transporter
+4121352..4121873	+	173	388479848	aroK	Y75_p3786	-	-	shikimate kinase I
+4121930..4123018	+	362	388479849	aroB	Y75_p3787	-	-	3-dehydroquinate synthase
+4123110..4124396	+	428	388479850	damX	Y75_p3788	-	-	hypothetical protein
+4124503..4125339	+	278	388479851	dam	Y75_p3789	-	-	DNA adenine methylase
+4125357..4126034	+	225	388479852	rpe	Y75_p3790	-	-	D-ribulose-5-phosphate 3-epimerase
+4126027..4126785	+	252	388479853	gph	Y75_p3791	-	-	phosphoglycolate phosphatase
+4126778..4127782	+	334	388479854	trpS	Y75_p3792	-	-	tryptophanyl-tRNA synthetase
+4128072..4128977	+	301	388479855	yhfZ	Y75_p3793	-	-	hypothetical protein
+4128994..4129356	+	120	388479856	yhfY	Y75_p3794	-	-	hypothetical protein
+4129440..4130603	+	387	388479857	yhfX	Y75_p3795	-	-	amino acid racemase
+4130603..4131829	+	408	388479858	yhfW	Y75_p3796	-	-	mutase
+4131826..4132704	+	292	388479859	php	Y75_p3797	-	-	hydrolase
+4132715..4133068	+	117	388479860	yhfU	Y75_p3798	-	-	hypothetical protein
+4133080..4134384	+	434	388479861	yhfT	Y75_p3799	-	-	inner membrane protein
+4134396..4135481	+	361	388479862	yhfS	Y75_p3800	-	-	hypothetical protein
+4135633..4136364	-	243	388479863	frlR	Y75_p3801	-	-	DNA-binding transcriptional regulator
+4136464..4137249	-	261	388479864	frlD	Y75_p3802	-	-	fructoselysine 6-kinase
+4137246..4138076	-	276	388479865	frlC	Y75_p3803	-	-	isomerase
+4138126..4139148	-	340	388479866	frlB	Y75_p3804	-	-	fructoselysine-6-P-deglycase
+4139169..4140506	-	445	388479867	frlA	Y75_p3805	-	-	fructoselysine transporter
+4140801..4140968	-	55	388479868	yhfL	Y75_p3806	-	-	secreted peptide
+4141215..4142588	-	457	388479869	cysG	Y75_p3807	-	-	fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase/siroheme ferrochelatase and uroporphyrinogen methyltransferase
+4142607..4143413	-	268	388479870	nirC	Y75_p3808	-	-	nitrite transporter
+4143539..4143865	-	108	388479871	nirD	Y75_p3809	-	-	nitrite reductase, NAD(P)H-binding, small subunit
+4143862..4146405	-	847	388479872	nirB	Y75_p3810	-	-	nitrite reductase, large subunit, NAD(P)H-binding
+4146667..4147848	-	393	388479873	tsgA	Y75_p3811	-	-	transporter
+4148119..4148691	+	190	388479874	ppiA	Y75_p3812	-	-	peptidyl-prolyl cis-trans isomerase A
+4148796..4148963	+	55	388479875	yhfG	Y75_p3813	-	-	hypothetical protein
+4148953..4149555	+	200	388479876	fic	Y75_p3814	-	-	stationary-phase protein, cell division
+4149587..4150150	+	187	388479877	pabA	Y75_p3815	-	-	aminodeoxychorismate synthase, subunit II
+4150236..4151456	+	406	388479878	argD	Y75_p3816	-	-	bifunctional acetylornithine aminotransferase/succinyldiaminopimelate aminotransferase
+4151523..4153625	-	700	388479879	yhfK	Y75_p3817	-	-	inner membrane protein
+4153664..4154296	-	210	388479880	crp	Y75_p3818	-	-	DNA-binding transcriptional dual regulator
+4154598..4155002	+	134	388479881	yhfA	Y75_p3819	-	-	hypothetical protein
+4155057..4155926	-	289	388479882	prkB	Y75_p3820	-	-	phosphoribulokinase
+4155980..4156198	-	72	388479883	yheU	Y75_p3821	-	-	hypothetical protein
+4156192..4157214	-	340	388479884	yheT	Y75_p3822	-	-	hydrolase
+4157214..4159127	-	637	388479885	yheS	Y75_p3823	-	-	ABC transporter ATP-binding protein
+4159255..4159809	+	184	388479886	kefG	Y75_p3824	-	-	component of potassium effux complex with KefB
+4159809..4161614	+	601	388479887	kefB	Y75_p3825	-	-	potassium:proton antiporter
+4161624..4161824	+	66	388479888	yheV	Y75_p3826	-	-	hypothetical protein
+4161919..4162509	+	196	388479889	slyD	Y75_p3827	-	-	FKBP-type peptidyl prolyl cis-trans isomerase
+4162558..4162776	-	72	388479890	slyX	Y75_p3828	-	-	hypothetical protein
+4162997..4163809	+	270	388479891	fkpA	Y75_p3829	-	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+4163976..4164698	+	240	388479892	yheO	Y75_p3830	-	-	DNA-binding transcriptional regulator
+4164698..4165084	+	128	388479893	yheN	Y75_p3831	-	-	intracellular sulfur oxidation protein
+4165084..4165443	+	119	388479894	yheM	Y75_p3832	-	-	intraceullular sulfur oxidation protein
+4165451..4165738	+	95	388479895	yheL	Y75_p3833	-	-	intracellular sulfur oxidation protein
+4165864..4166238	+	124	388479896	rpsL	Y75_p3834	-	-	30S ribosomal protein S12
+4166335..4166874	+	179	388479897	rpsG	Y75_p3835	-	-	30S ribosomal protein S7
+4166902..4169016	+	704	388479898	fusA	Y75_p3836	-	-	protein chain elongation factor EF-G
+4169087..4170271	+	394	388479899	tufA	Y75_p3837	-	-	protein chain elongation factor EF-Tu
+4170563..4173256	+	897	388479900	chiA	Y75_p3838	-	-	periplasmic endochitinase
+4173425..4173619	+	64	388479901	bfd	Y75_p3839	-	-	bacterioferritin-associated ferredoxin
+4173691..4174167	+	158	388479902	bfr	Y75_p3840	-	-	bacterioferritin, iron storage and detoxification protein
+4174196..4174873	-	225	388479903	gspO	Y75_p3841	-	-	bifunctional prepilin leader peptidase/methylase
+4174873..4175334	-	153	388479904	gspM	Y75_p3842	-	-	general secretory pathway component, cryptic
+4175331..4176494	-	387	388479905	gspL	Y75_p3843	-	-	general secretory pathway component, cryptic
+4176509..4177492	-	327	388479906	gspK	Y75_p3844	-	-	general secretory pathway component, cryptic
+4177485..4178072	-	195	388479907	gspJ	Y75_p3845	-	-	general secretory pathway component, cryptic
+4178065..4178442	-	125	388479908	gspI	Y75_p3846	-	-	general secretory pathway component, cryptic
+4178439..4178948	-	169	388479909	gspH	Y75_p3847	-	-	general secretory pathway component, cryptic
+4178956..4179393	-	145	388479910	gspG	Y75_p3848	-	-	pseudopilin, cryptic, general secretion pathway
+4179403..4180599	-	398	388479911	gspF	Y75_p3849	-	-	general secretory pathway component, cryptic
+4180596..4182077	-	493	388479912	gspE	Y75_p3850	-	-	general secretory pathway component, cryptic
+4182087..4184039	-	650	388479913	gspD	Y75_p3851	-	-	general secretory pathway component, cryptic
+4184023..4184838	-	271	388479914	gspC	Y75_p3852	-	-	general secretory pathway component, cryptic
+4185018..4186487	+	489	388479915	gspA	Y75_p3853	-	-	general secretory pathway component, cryptic
+4186489..4186908	+	139	388479916	pioO	Y75_p3854	-	-	part of gsp divergon involved in type II protein secretion
+4187146..4187457	+	103	388479917	rpsJ	Y75_p3855	-	-	30S ribosomal protein S10
+4187490..4188119	+	209	388479918	rplC	Y75_p3856	-	-	50S ribosomal protein L3
+4188130..4188735	+	201	388479919	rplD	Y75_p3857	-	-	50S ribosomal protein L4
+4188732..4189034	+	100	388479920	rplW	Y75_p3858	-	-	50S ribosomal protein L23
+4189052..4189873	+	273	388479921	rplB	Y75_p3859	-	-	50S ribosomal protein L2
+4189890..4190168	+	92	388479922	rpsS	Y75_p3860	-	-	30S ribosomal protein S19
+4190183..4190515	+	110	388479923	rplV	Y75_p3861	-	-	50S ribosomal protein L22
+4190533..4191234	+	233	388479924	rpsC	Y75_p3862	-	-	30S ribosomal protein S3
+4191247..4191657	+	136	388479925	rplP	Y75_p3863	-	-	50S ribosomal protein L16
+4191657..4191848	+	63	388479926	rpmC	Y75_p3864	-	-	50S ribosomal protein L29
+4191848..4192102	+	84	388479927	rpsQ	Y75_p3865	-	-	30S ribosomal protein S17
+4192267..4192638	+	123	388479928	rplN	Y75_p3866	-	-	50S ribosomal protein L14
+4192649..4192963	+	104	388479929	rplX	Y75_p3867	-	-	50S ribosomal protein L24
+4192978..4193517	+	179	388479930	rplE	Y75_p3868	-	-	50S ribosomal protein L5
+4193532..4193837	+	101	388479931	rpsN	Y75_p3869	-	-	30S ribosomal protein S14
+4193871..4194263	+	130	388479932	rpsH	Y75_p3870	-	-	30S ribosomal protein S8
+4194276..4194809	+	177	388479933	rplF	Y75_p3871	-	-	50S ribosomal protein L6
+4194819..4195172	+	117	388479934	rplR	Y75_p3872	-	-	50S ribosomal protein L18
+4195187..4195690	+	167	388479935	rpsE	Y75_p3873	-	-	30S ribosomal protein S5
+4195694..4195873	+	59	388479936	rpmD	Y75_p3874	-	-	50S ribosomal protein L30
+4195877..4196311	+	144	388479937	rplO	Y75_p3875	-	-	50S ribosomal protein L15
+4196319..4197650	+	443	388479938	secY	Y75_p3876	-	-	preprotein translocase membrane subunit
+4197682..4197798	+	38	388479939	rpmJ	Y75_p3877	-	-	50S ribosomal protein L36
+4197945..4198301	+	118	388479940	rpsM	Y75_p3878	-	-	30S ribosomal protein S13
+4198318..4198707	+	129	388479941	rpsK	Y75_p3879	-	-	30S ribosomal protein S11
+4198741..4199361	+	206	388479942	rpsD	Y75_p3880	-	-	30S ribosomal protein S4
+4199387..4200376	+	329	388479943	rpoA	Y75_p3881	-	-	RNA polymerase subunit alpha
+4200417..4200800	+	127	388479944	rplQ	Y75_p3882	-	-	50S ribosomal protein L17
+4200907..4201275	+	122	388479945	yhdN	Y75_p3883	-	-	hypothetical protein
+4201286..4201711	+	141	388479946	zntR	Y75_p3884	-	-	DNA-binding transcriptional activator
+4201767..4201985	+	72	388479947	yhdL	Y75_p3885	-	-	hypothetical protein
+4201982..4202392	-	136	388479948	mscL	Y75_p3886	-	-	mechanosensitive channel
+4202522..4203898	-	458	388479949	trkA	Y75_p3887	-	-	NAD-binding component of TrK potassium transporter
+4203920..4205209	-	429	388479950	rsmB	Y75_p3888	-	-	16S rRNA m5C967 methyltransferase, S-adenosyl-L-methionine-dependent
+4205255..4206202	-	315	388479951	fmt	Y75_p3889	-	-	10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase
+4206217..4206726	-	169	388479952	def	Y75_p3890	-	-	peptide deformylase
+4206856..4207980	+	374	388479953	smf	Y75_p3891	-	-	hypothetical protein
+4207952..4208425	+	157	388479954	smg	Y75_p3892	-	-	hypothetical protein
+4208454..4208996	+	180	388479955	yrdD	Y75_p3893	-	-	DNA topoisomerase
+4209001..4209573	+	190	388479956	yrdC	Y75_p3894	-	-	dsRNA-binding protein
+4209578..4210396	+	272	388479957	aroE	Y75_p3895	-	-	dehydroshikimate reductase
+4210393..4210650	+	85	388479958	yrdB	Y75_p3896	-	-	hypothetical protein
+4210626..4211180	-	184	388479959	yrdA	Y75_p3897	-	-	hypothetical protein
+4216824..4217207	+	127	388479960	yjaA	Y75_p3898	-	-	hypothetical protein
+4217270..4217713	-	147	388479961	yjaB	Y75_p3899	-	-	acetyltransferase
+4217870..4218799	+	309	388479962	metA	Y75_p3900	-	-	homoserine transsuccinylase
+4219068..4220669	+	533	388479963	aceB	Y75_p3901	-	-	malate synthase A
+4220699..4222003	+	434	388479964	aceA	Y75_p3902	-	-	isocitrate lyase
+4222186..4223922	+	578	388479965	aceK	Y75_p3903	-	-	isocitrate dehydrogenase kinase/phosphatase
+4223891..4226077	-	728	388479966	arpA	Y75_p3904	-	-	regulator of acetyl CoA synthetase
+4226394..4227218	-	274	388479967	iclR	Y75_p3905	-	-	DNA-binding transcriptional repressor
+4227418..4231101	+	1227	388479968	metH	Y75_p3906	-	-	homocysteine-N5-methyltetrahydrofolate transmethylase, B12-dependent
+4231321..4232952	+	543	388479969	yjbB	Y75_p3907	-	-	transporter
+4233043..4233732	-	229	388479970	pepE	Y75_p3908	-	-	(alpha)-aspartyl dipeptidase
+4233944..4234816	+	290	388479971	yjbC	Y75_p3909	-	-	23S rRNA pseudouridine synthase
+4234949..4235221	-	90	388479972	yjbD	Y75_p3910	-	-	hypothetical protein
+4235474..4236823	-	449	388479973	lysC	Y75_p3911	-	-	aspartokinase III
+4237348..4238997	+	549	388479974	pgi	Y75_p3912	-	-	glucosephosphate isomerase
+4239496..4239738	+	80	388479975	yjbE	Y75_p3913	-	-	hypothetical protein
+4239852..4240490	+	212	388479976	yjbF	Y75_p3914	-	-	lipoprotein
+4240487..4241224	+	245	388479977	yjbG	Y75_p3915	-	-	hypothetical protein
+4241224..4243320	+	698	388479978	yjbH	Y75_p3916	-	-	porin
+4243915..4244325	+	136	388479979	yjbA	Y75_p3917	-	-	phosphate starvation inducible protein
+4244369..4245844	-	491	388479980	xylE	Y75_p3918	-	-	D-xylose transporter
+4246216..4247106	-	296	388479981	malG	Y75_p3919	-	-	maltose transporter subunit
+4247121..4248665	-	514	388479982	malF	Y75_p3920	-	-	maltose transporter subunit
+4248819..4250009	-	396	388479983	malE	Y75_p3921	-	-	maltose transporter subunit
+4250374..4251489	+	371	388479984	malK	Y75_p3922	-	-	bifunctional maltose ABC transporter ATP-binding protein /regulatory protein
+4251561..4252901	+	446	388479985	lamB	Y75_p3923	-	-	maltose outer membrane porin
+4253144..4254064	+	306	388479986	malM	Y75_p3924	-	-	maltose regulon periplasmic protein
+4254545..4255873	+	442	388479987	yjbI	Y75_p3925	-	-	hypothetical protein
+4256096..4256593	+	165	388479988	ubiC	Y75_p3926	-	-	chorismate pyruvate lyase
+4256606..4257478	+	290	388479989	ubiA	Y75_p3927	-	-	p-hydroxybenzoate octaprenyltransferase
+4257633..4260056	-	807	388479990	plsB	Y75_p3928	-	-	glycerol-3-phosphate O-acyltransferase
+4260227..4260595	+	122	388479991	dgkA	Y75_p3929	-	-	diacylglycerol kinase
+4260705..4261313	+	202	388479992	lexA	Y75_p3930	-	-	DNA-binding transcriptional repressor
+4261332..4262711	+	459	388479993	dinF	Y75_p3931	-	-	DNA-damage-inducible SOS response protein
+4262827..4263036	+	69	388479994	yjbJ	Y75_p3932	-	-	stress response protein
+4263078..4263593	-	171	388479995	zur	Y75_p3933	-	-	DNA-binding transcriptional activator
+4263911..4264165	+	84	388479996	yjbL	Y75_p3934	-	-	hypothetical protein
+4264189..4264896	+	235	388479997	yjbM	Y75_p3935	-	-	hypothetical protein
+4265259..4266296	+	345	388479998	yjbN	Y75_p3936	-	-	tRNA-dihydrouridine synthase A
+4266430..4266672	+	80	388479999	yjbO	Y75_p3937	-	-	phage shock protein G
+4266838..4267821	-	327	388480000	qor	Y75_p3938	-	-	quinone oxidoreductase, NADPH-dependent
+4267904..4269319	+	471	388480001	dnaB	Y75_p3939	-	-	replicative DNA helicase
+4269372..4270451	+	359	388480002	alr	Y75_p3940	-	-	alanine racemase 1, PLP-binding, biosynthetic
+4270704..4271897	+	397	388480003	tyrB	Y75_p3941	-	-	tyrosine aminotransferase, tyrosine-repressible, PLP-dependent
+4273004..4273717	+	237	388480004	aphA	Y75_p3942	-	-	acid phosphatase/phosphotransferase, class B, non-specific
+4273828..4274244	+	138	388480005	yjbQ	Y75_p3943	-	-	hypothetical protein
+4274248..4274604	+	118	388480006	yjbR	Y75_p3944	-	-	hypothetical protein
+4274639..4277461	-	940	388480007	uvrA	Y75_p3945	-	-	ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC
+4277715..4278251	+	178	388480008	ssb	Y75_p3946	-	-	Single-stranded DNA-binding protein
+4278350..4278631	-	93	388480009	yjcB	Y75_p3947	-	-	inner membrane protein
+4279061..4280647	+	528	388480010	yjcC	Y75_p3948	-	-	signal transduction protein
+4280650..4280973	-	107	388480011	soxS	Y75_p3949	-	-	DNA-binding transcriptional dual regulator
+4281059..4281523	+	154	388480012	soxR	Y75_p3950	-	-	DNA-binding transcriptional dual regulator
+4282069..4283418	+	449	388480013	yjcD	Y75_p3951	-	-	permease
+4283570..4285219	+	549	388480014	yjcE	Y75_p3952	-	-	cation/proton antiporter
+4285373..4286665	-	430	388480015	yjcF	Y75_p3953	-	-	hypothetical protein
+4286843..4288492	-	549	388480016	actP	Y75_p3954	-	-	acetate transporter
+4288489..4288803	-	104	388480017	yjcH	Y75_p3955	-	-	inner membrane protein involved in acetate transport
+4289003..4290961	-	652	388480018	acs	Y75_p3956	-	-	bifunctional acetyl-CoA synthetase/propionyl-CoA synthetase
+4291354..4292790	+	478	388480019	nrfA	Y75_p3957	-	-	nitrite reductase, formate-dependent, cytochrome
+4292835..4293401	+	188	388480020	nrfB	Y75_p3958	-	-	nitrite reductase, formate-dependent, penta-heme cytochrome c
+4293398..4294069	+	223	388480021	nrfC	Y75_p3959	-	-	formate-dependent nitrite reductase, 4Fe4S subunit
+4294066..4295022	+	318	388480022	nrfD	Y75_p3960	-	-	formate-dependent nitrite reductase, membrane subunit
+4295102..4296760	+	552	388480023	nrfE	Y75_p3961	-	-	heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfE
+4296753..4297136	+	127	388480024	nrfF	Y75_p3962	-	-	heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfF
+4297133..4297729	+	198	388480025	nrfG	Y75_p3963	-	-	heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfG
+4298071..4299384	+	437	388480026	gltP	Y75_p3964	-	-	glutamate/aspartate:proton symporter
+4299915..4300604	-	229	388480027	yjcO	Y75_p3965	-	-	hypothetical protein
+4300698..4302845	-	715	388480028	fdhF	Y75_p3966	-	-	formate dehydrogenase-H, selenopolypeptide subunit
+4303043..4304509	-	488	388480029	yjcP	Y75_p3967	-	-	outer membrane factor of efflux pump
+4304506..4306557	-	683	388480030	yjcQ	Y75_p3968	-	-	multidrug efflux system component
+4306557..4307588	-	343	388480031	yjcR	Y75_p3969	-	-	membrane fusion protein of efflux pump
+4308091..4310076	-	661	388480032	yjcS	Y75_p3970	-	-	alkyl sulfatase
+4310431..4311411	+	326	388480033	insH	Y75_p3971	-	-	IS5 element protein
+4311449..4312477	-	342	388480034	alsK	Y75_p3972	-	-	D-allose kinase
+4312461..4313156	-	231	388480035	alsE	Y75_p3973	-	-	allulose-6-phosphate 3-epimerase
+4313167..4314147	-	326	388480036	alsC	Y75_p3974	-	-	D-allose transporter subunit
+4314126..4315658	-	510	388480037	alsA	Y75_p3975	-	-	fused D-allose transporter subunits and ATP-binding components of ABC superfamily
+4315785..4316720	-	311	388480038	alsB	Y75_p3976	-	-	D-allose transporter subunit
+4316779..4317669	-	296	388480039	rpiR	Y75_p3977	-	-	DNA-binding transcriptional repressor
+4318028..4318477	+	149	388480040	rpiB	Y75_p3978	-	-	ribose 5-phosphate isomerase B/allose 6-phosphate isomerase
+4318546..4318875	+	109	388480041	yjdP	Y75_p3979	-	-	hypothetical protein
+4319022..4319780	-	252	388480042	phnP	Y75_p3980	-	-	carbon-phosphorus lyase complex accessory protein
+4319782..4320216	-	144	388480043	phnO	Y75_p3981	-	-	acyltransferase
+4320203..4320760	-	185	388480044	phnN	Y75_p3982	-	-	ribose 1,5-bisphosphokinase
+4320760..4321896	-	378	388480045	phnM	Y75_p3983	-	-	carbon-phosphorus lyase complex subunit
+4321893..4322573	-	226	388480046	phnL	Y75_p3984	-	-	carbon-phosphorus lyase complex subunit
+4322684..4323442	-	252	388480047	phnK	Y75_p3985	-	-	carbon-phosphorus lyase complex subunit
+4323439..4324284	-	281	388480048	phnJ	Y75_p3986	-	-	carbon-phosphorus lyase complex subunit
+4324277..4325341	-	354	388480049	phnI	Y75_p3987	-	-	carbon-phosphorus lyase complex subunit
+4325341..4325925	-	194	388480050	phnH	Y75_p3988	-	-	carbon-phosphorus lyase complex subunit
+4325922..4326374	-	150	388480051	phnG	Y75_p3989	-	-	carbon-phosphorus lyase complex subunit
+4326375..4327100	-	241	388480052	phnF	Y75_p3990	-	-	transcriptional regulator of phosphonate uptake and biodegradation
+4328014..4329030	-	338	388480053	phnD	Y75_p3992	-	-	phosphonate/organophosphate ester transporter subunit
+4329055..4329843	-	262	388480054	phnC	Y75_p3993	-	-	phosphonate/organophosphate ester transporter subunit
+4329976..4330419	-	147	388480055	phnB	Y75_p3994	-	-	hypothetical protein
+4331077..4331412	-	111	388480056	phnA	Y75_p3995	-	-	phosphonate metabolizing protein
+4331813..4334041	+	742	388480057	yjdA	Y75_p3996	-	-	hypothetical protein
+4334038..4334916	+	292	388480058	yjcZ	Y75_p3997	-	-	hypothetical protein
+4335180..4336682	+	500	388480059	proP	Y75_p3998	-	-	proline/glycine betaine transporter
+4336859..4337950	-	363	388480060	basS	Y75_p3999	-	-	sensory histidine kinase in two-component regulatory system with BasR
+4337960..4338628	-	222	388480061	basR	Y75_p4000	-	-	DNA-binding response regulator in two-component regulatory system with BasS
+4338625..4340268	-	547	388480062	eptA	Y75_p4001	-	-	metal dependent hydrolase
+4340372..4341709	-	445	388480063	adiC	Y75_p4002	-	-	arginine:agmatin
+4341846..4342607	-	253	388480064	adiY	Y75_p4003	-	-	DNA-binding transcriptional activator
+4342932..4345202	-	756	388480065	adiA	Y75_p4004	-	-	biodegradative arginine decarboxylase
+4345398..4346306	-	302	388480066	melR	Y75_p4005	-	-	DNA-binding transcriptional dual regulator
+4346589..4347944	+	451	388480067	melA	Y75_p4006	-	-	alpha-galactosidase
+4348059..4349468	+	469	388480068	melB	Y75_p4007	-	-	melibiose:sodium symporter
+4349607..4350236	-	209	388480069	yjdF	Y75_p4008	-	-	inner membrane protein
+4350358..4352004	-	548	388480070	fumB	Y75_p4009	-	-	anaerobic class I fumarate hydratase
+4352082..4353422	-	446	388480071	dcuB	Y75_p4010	-	-	C4-dicarboxylate antiporter
+4353993..4354712	-	239	388480072	dcuR	Y75_p4011	-	-	DNA-binding response regulator in two-component regulatory system with DcuS
+4354709..4356340	-	543	388480073	dcuS	Y75_p4012	-	-	sensory histidine kinase in two-component regulatory system with DcuR, regulator of anaerobic fumarate respiration
+4356521..4356751	+	76	388480074	yjdI	Y75_p4013	-	-	hypothetical protein
+4356763..4357035	+	90	388480075	yjdJ	Y75_p4014	-	-	acyltransferase
+4357262..4357558	+	98	388480076	yjdK	Y75_p4015	-	-	hypothetical protein
+4357586..4357759	+	57	388480077	yjdO	Y75_p4016	-	-	hypothetical protein
+4357878..4359395	-	505	388480078	lysU	Y75_p4017	-	-	lysine tRNA synthetase, inducible
+4359632..4361089	-	485	388480079	yjdL	Y75_p4018	-	-	transporter
+4361148..4363295	-	715	388480080	cadA	Y75_p4019	-	-	lysine decarboxylase 1
+4363375..4364709	-	444	388480081	cadB	Y75_p4020	-	-	lysine/cadaverine transporter
+4365074..4366612	-	512	388480082	cadC	Y75_p4021	-	-	DNA-binding transcriptional activator
+4367411..4367986	-	191	388480083	yjdC	Y75_p4022	-	-	transcriptional regulator
+4368023..4369720	-	565	388480084	dipZ	Y75_p4023	-	-	fused thiol:disulfide interchange protein
+4369696..4370034	-	112	388480085	cutA	Y75_p4024	-	-	copper binding protein, copper sensitivity
+4370150..4371265	-	371	388480086	dcuA	Y75_p4025	-	-	C4-dicarboxylate antiporter
+4371571..4373007	-	478	388480087	aspA	Y75_p4026	-	-	aspartate ammonia-lyase
+4373344..4373820	+	158	388480088	fxsA	Y75_p4027	-	-	inner membrane protein
+4373836..4375092	-	418	388480089	yjeH	Y75_p4028	-	-	transporter
+4375368..4375661	+	97	388480090	groS	Y75_p4029	-	-	Cpn10 chaperonin GroES, small subunit of GroESL
+4375705..4377351	+	548	388480091	groL	Y75_p4030	-	-	Cpn60 chaperonin GroEL, large subunit of GroESL
+4377489..4377842	+	117	388480092	yjeI	Y75_p4031	-	-	hypothetical protein
+4378045..4378914	-	289	388480093	yjeJ	Y75_p4032	-	-	hypothetical protein
+4379309..4380337	-	342	388480094	yjeK	Y75_p4033	-	-	lysine aminomutase
+4380379..4380945	+	188	388480095	efp	Y75_p4034	-	-	Elongation factor EF-P
+4380997..4381122	+	41	388480096	ecnA	Y75_p4035	-	-	entericidin A membrane lipoprotein, antidote entericidin B
+4381233..4381379	+	48	388480097	ecnB	Y75_p4036	-	-	entericidin B membrane lipoprotein
+4381555..4381872	+	105	388480098	sugE	Y75_p4037	-	-	multidrug efflux system protein
+4381869..4382402	-	177	388480099	blc	Y75_p4038	-	-	outer membrane lipoprotein
+4382491..4383624	-	377	388480100	ampC	Y75_p4039	-	-	beta-lactamase/D-alanine carboxypeptidase
+4383687..4384046	-	119	388480101	frdD	Y75_p4040	-	-	fumarate reductase (anaerobic), membrane anchor subunit
+4384057..4384452	-	131	388480102	frdC	Y75_p4041	-	-	fumarate reductase (anaerobic), membrane anchor subunit
+4384463..4385197	-	244	388480103	frdB	Y75_p4042	-	-	fumarate reductase (anaerobic), Fe-S subunit
+4385190..4386998	-	602	388480104	frdA	Y75_p4043	-	-	fumarate reductase (anaerobic) catalytic and NAD/flavoprotein subunit
+4387323..4388300	+	325	388480105	poxA	Y75_p4044	-	-	lysyl-tRNA synthetase
+4388519..4390021	+	500	388480106	yjeM	Y75_p4045	-	-	transporter
+4390073..4390387	+	104	388480107	yjeN	Y75_p4046	-	-	hypothetical protein
+4390384..4390698	+	104	388480108	yjeO	Y75_p4047	-	-	inner membrane protein
+4390727..4394050	-	1107	388480109	yjeP	Y75_p4048	-	-	mechanosensitive channel
+4394072..4395040	-	322	388480110	psd	Y75_p4049	-	-	phosphatidylserine decarboxylase
+4395137..4396189	-	350	388480111	rsgA	Y75_p4050	-	-	ribosome small subunit-dependent GTPase A
+4396284..4396829	+	181	388480112	orn	Y75_p4051	-	-	oligoribonuclease
+4397608..4398747	-	379	388480113	yjeS	Y75_p4052	-	-	Fe-S electron transport protein
+4398746..4400293	+	515	388480114	yjeF	Y75_p4053	-	-	carbohydrate kinase
+4400265..4400726	+	153	388480115	yjeE	Y75_p4054	-	-	ATPase with strong ADP affinity
+4400745..4402082	+	445	388480116	amiB	Y75_p4055	-	-	N-acetylmuramoyl-l-alanine amidase II
+4402092..4403939	+	615	388480117	mutL	Y75_p4056	-	-	methyl-directed mismatch repair protein
+4403932..4404882	+	316	388480118	miaA	Y75_p4057	-	-	delta(2)-isopentenylpyrophosphate tRNA-adenosine transferase
